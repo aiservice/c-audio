@@ -1,0 +1,1 @@
+var audioList=[{"title":"王国兆总分享《玩转5G直播的八大关键》","urlAudio":"https://fdfs.xmcdn.com/group70/M01/59/32/wKgOzl5BAy6yy-PDATkpVWL1XsE696.m4a"},{"title":"5G人工智能财富密码终极方案","urlAudio":"https://fdfs.xmcdn.com/group72/M02/B0/31/wKgO0F5CJdKxO2X_AoKS1lVNiZ8470.m4a"}]

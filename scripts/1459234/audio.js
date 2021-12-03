@@ -1,0 +1,1 @@
+var audioList=[{"title":"01.五代乱世","urlAudio":"https://fdfs.xmcdn.com/group75/M01/9F/48/wKgO015Q9JyhAVvaAI2SrG_vQ2U469.m4a"},{"title":"02.定都汴梁","urlAudio":"https://fdfs.xmcdn.com/group77/M01/9C/A6/wKgO315R6naAmgMyALEzv4O2j5k355.m4a"},{"title":"03.契丹简史","urlAudio":"https://fdfs.xmcdn.com/group75/M0A/C9/C3/wKgO3V512P_wljEWAEWAaP-vtDo244.m4a"}]

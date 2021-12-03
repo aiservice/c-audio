@@ -1,0 +1,1 @@
+var audioList=[{"title":"面朝大海，春暖花开","urlAudio":"https://fdfs.xmcdn.com/group60/M0B/40/0E/wKgLeV3vn-DR4ThzAAt2nF1VHHw035.m4a"},{"title":"听写5课","urlAudio":"https://fdfs.xmcdn.com/group78/M02/D9/B7/wKgO4F53YhChkJD5AC7iNOvyjCc994.m4a"},{"title":"6课词","urlAudio":"https://fdfs.xmcdn.com/group78/M06/E8/A3/wKgO4F54gMPi9MaKADI_8RELd2k985.m4a"}]

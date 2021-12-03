@@ -1,0 +1,1 @@
+var audioList=[{"title":"主观题必过＃民诉考前金句梳理（上）","urlAudio":"https://fdfs.xmcdn.com/group64/M09/7E/7B/wKgMaV2f_HzCJMPQAK_Fev1RIzM960.m4a"},{"title":"主观题必过＃民诉考前金句梳理（下）","urlAudio":"https://fdfs.xmcdn.com/group66/M0A/7D/93/wKgMdV2gB6uD_iawAN1SzyJBbZs040.m4a"}]

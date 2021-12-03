@@ -1,0 +1,1 @@
+var audioList=[{"title":"1.你真的了解拼多多无货源店群吗？","urlAudio":"https://fdfs.xmcdn.com/group72/M04/B8/BF/wKgO0F4hHDrjztN0AD50jvUfj1Q821.m4a"},{"title":"2.什么人适合做拼多多店群","urlAudio":"https://fdfs.xmcdn.com/group71/M05/FD/F2/wKgO2V4iluOzE0HXAEBTkWn2k_Q441.m4a"},{"title":"3.做拼多多店群所需要的资金","urlAudio":"https://fdfs.xmcdn.com/group72/M00/0A/E9/wKgO0F4jwvCjqJavACOFjiJk-Ek245.m4a"}]

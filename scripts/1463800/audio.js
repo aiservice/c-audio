@@ -1,0 +1,1 @@
+var audioList=[{"title":"独脚戏《十三人搓麻将》（包一飞、袁一灵）","urlAudio":"https://fdfs.xmcdn.com/group32/M02/A7/6F/wKgJS1qNOoOgZV_PALPYHSqd298766.m4a"},{"title":"上海说唱《梁山一百零八将》（袁一灵）","urlAudio":"https://fdfs.xmcdn.com/group35/M0A/4D/5C/wKgJnFqNO-OAmWwXADKX4QPPC6Y409.m4a"},{"title":"独脚戏《糖麻球》（唐笑飞、俞祥明）风速翻录","urlAudio":"https://fdfs.xmcdn.com/group39/M07/B2/29/wKgJnlqNPEfx8rvMAICNZH5BP8g595.m4a"}]

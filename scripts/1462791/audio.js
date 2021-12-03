@@ -1,0 +1,1 @@
+var audioList=[{"title":"魔幻东北搓澡志","urlAudio":"https://fdfs.xmcdn.com/group69/M00/2C/BE/wKgMeV3nLJChNvfvARA3v7-i014697.m4a"},{"title":"城话06 - 闽南歌曲的三大人生主题","urlAudio":"https://fdfs.xmcdn.com/group66/M03/B1/7C/wKgMdV3x1_SjETZ0ARQvGbRabwQ664.m4a"},{"title":"【直播回听】测试测试","urlAudio":"https://fdfs.xmcdn.com/group76/M0A/4D/39/wKgO3l5tGgmBeNfyAPfohDNkFZo434.m4a"}]

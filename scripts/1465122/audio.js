@@ -1,0 +1,1 @@
+var audioList=[{"title":"什么是金庸小说里的AK—47？","urlAudio":"https://fdfs.xmcdn.com/group74/M04/0B/8D/wKgO3F5Y4ASiEANvAEAc2GZV5Ds484.m4a"},{"title":"小圈子里的大人物","urlAudio":"https://fdfs.xmcdn.com/group77/M05/08/8C/wKgO315Y5yeCRCeEADvjANJ8h2Q302.m4a"},{"title":"阿蒋：为什么千与千寻是经典？","urlAudio":"https://fdfs.xmcdn.com/group78/M03/61/4C/wKgO4F5fBP3x_yZuAEriqdDYGeo699.m4a"}]

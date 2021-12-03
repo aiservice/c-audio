@@ -1,0 +1,1 @@
+var audioList=[{"title":"金锁记张爱玲6","urlAudio":"https://fdfs.xmcdn.com/group77/M00/DE/FD/wKgO1V5VBALAoifuAFMH1kilRwc972.m4a"},{"title":"金锁记张爱玲7","urlAudio":"https://fdfs.xmcdn.com/group75/M07/E4/F5/wKgO3V5WXWTwS-_JADGI2snChXo281.m4a"},{"title":"金锁记张爱玲17","urlAudio":"https://fdfs.xmcdn.com/group77/M02/FA/39/wKgO1V5nSXKRPUA4AEvWLYCtdYw286.m4a"}]

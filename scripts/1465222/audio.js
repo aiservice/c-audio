@@ -1,0 +1,1 @@
+var audioList=[{"title":"序","urlAudio":"https://fdfs.xmcdn.com/group77/M0B/0E/F3/wKgO1V5GVsySJKDJACB8dIn207A405.m4a"},{"title":"第二章 台球","urlAudio":"https://fdfs.xmcdn.com/group77/M05/1C/8E/wKgO315Is9LAvhmeAGfEOGLYQaI522.m4a"},{"title":"第三章 射手和农场主（上）","urlAudio":"https://fdfs.xmcdn.com/group74/M01/2B/65/wKgO0l5IxbmxV9MZAMuReh3quMU616.m4a"}]

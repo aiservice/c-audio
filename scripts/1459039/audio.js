@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一章 俾斯麦01","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/B8/2A/wKgO0l50B5jz6TBhAG6ABMBQDiM266.m4a"},{"title":"第一章 俾斯麦02","urlAudio":"https://fdfs.xmcdn.com/group75/M03/29/3D/wKgO015IoyngK9e1AHDo6ueHFDM242.m4a"},{"title":"第一章 俾斯麦03","urlAudio":"https://fdfs.xmcdn.com/group73/M06/1F/7D/wKgO215Io0mh58q0AHggMcmmraY034.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一期 枕边语","urlAudio":"https://fdfs.xmcdn.com/group74/M09/CE/37/wKgO3F5U8RiCPAyoAB3Dt20Nbgg550.m4a"},{"title":"第二期 你是我的整个世界","urlAudio":"https://fdfs.xmcdn.com/group76/M07/74/13/wKgO3l5vnwKwz-z6ACmAzEiicCg022.m4a"}]

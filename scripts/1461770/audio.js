@@ -1,0 +1,1 @@
+var audioList=[{"title":"5G简单说","urlAudio":"https://fdfs.xmcdn.com/group64/M03/68/65/wKgMc11lU1LBttg-ACXBeGPSXC0422.m4a"},{"title":"谷歌实现了量子霸权？我们怎么办？究竟什么是量子？","urlAudio":"https://fdfs.xmcdn.com/group66/M00/E3/BD/wKgMa12RHEXyQKA9ACUG_UTMC_c893.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"从现在开始，格外珍惜时间，让生活充实起来","urlAudio":"https://fdfs.xmcdn.com/group78/M04/52/53/wKgO1l5cyOPCZqOKAAtoYmWoKnU129.m4a"},{"title":"假如你只能再活一个月","urlAudio":"https://fdfs.xmcdn.com/group74/M02/50/F3/wKgO0l5c30Xjg6bIAA8O41l0IcA133.m4a"},{"title":"请安静下来，想想什么是你真正想要的","urlAudio":"https://fdfs.xmcdn.com/group73/M08/F6/80/wKgO0V5niO6TgIqAAAtl-FlATPI579.m4a"}]

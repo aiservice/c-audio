@@ -1,0 +1,1 @@
+var audioList=[{"title":"1.爱的施与受 引子","urlAudio":"https://fdfs.xmcdn.com/group67/M06/6B/F4/wKgMd13qbruT7oXkACHfWoVfXfI114.m4a"},{"title":"2.良知就是“爱的教育”","urlAudio":"https://fdfs.xmcdn.com/group69/M09/6B/FC/wKgMb13qdXujBdAnAGX-eeBPJis145.m4a"},{"title":"顺势而为帮孩子在流行文化里找到“偶像”的力量吧！","urlAudio":"https://fdfs.xmcdn.com/group55/M0A/69/9B/wKgLdV39XheDzvtIAIJC7F_ikf4759.m4a"}]

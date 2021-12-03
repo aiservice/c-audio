@@ -1,0 +1,1 @@
+var audioList=[{"title":"政信资产还安全吗？02","urlAudio":"https://fdfs.xmcdn.com/group52/M04/DE/86/wKgLe1xDzNjDazjVADqPw38RHSI043.m4a"},{"title":"政信资产还安全？01","urlAudio":"https://fdfs.xmcdn.com/group53/M02/DE/FD/wKgLfFxDyYaDJ2S8ADkEeurMJEw599.m4a"},{"title":"政信资产还安全？03","urlAudio":"https://fdfs.xmcdn.com/group52/M08/DF/62/wKgLcFxD0G7zolVwADcGt5GIMw0071.m4a"}]

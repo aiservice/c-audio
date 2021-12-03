@@ -1,0 +1,1 @@
+var audioList=[{"title":"香槟的定义与命运","urlAudio":"https://fdfs.xmcdn.com/group74/M05/6F/B1/wKgO3F5fYb7Q8BGIACXjQawJ53g546.m4a"},{"title":"香槟的误区：香槟之父发明香槟","urlAudio":"https://fdfs.xmcdn.com/group75/M0A/8F/8C/wKgO015xjo_jxHT7ACgaKl6ewQw430.m4a"},{"title":"香槟的误区：年份香槟与无年份香槟","urlAudio":"https://fdfs.xmcdn.com/group75/M06/E7/21/wKgO3V54HPeD4RrCAC6gzS7l2T4039.m4a"}]

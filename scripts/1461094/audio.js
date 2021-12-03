@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一一二夜：你好，很高兴认识你","urlAudio":"https://fdfs.xmcdn.com/group44/M04/7E/3F/wKgKjFr0Pd6RuaU7AA3_TwbNfVY136.m4a"},{"title":"称象","urlAudio":"https://fdfs.xmcdn.com/group44/M0B/7E/B6/wKgKjFr0P1nxRLGDAAy04Z30oE8386.m4a"},{"title":"手捧花盆的孩子","urlAudio":"https://fdfs.xmcdn.com/group44/M03/7F/51/wKgKkVr0QHbyA2NBAA0Cs3Z3Hyg175.m4a"}]

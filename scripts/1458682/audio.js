@@ -1,0 +1,1 @@
+var audioList=[{"title":"开学","urlAudio":"https://fdfs.xmcdn.com/group76/M05/47/01/wKgO3l5ckSahFcAJACmiarcMLn0247.m4a"},{"title":"k歌","urlAudio":"https://fdfs.xmcdn.com/group76/M0B/47/A4/wKgO3l5cmT6x_RJXACdP3JDQAQ8179.m4a"},{"title":"丧尸围城","urlAudio":"https://fdfs.xmcdn.com/group76/M0B/E4/8A/wKgO3l53CsLz1LRdAHBCsIFg5UY984.m4a"}]

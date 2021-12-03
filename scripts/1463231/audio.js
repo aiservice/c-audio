@@ -1,0 +1,1 @@
+var audioList=[{"title":"宣传片：宝贝龙迷你龙，怎么瞬间给收服了？","urlAudio":"https://fdfs.xmcdn.com/group77/M0A/A2/98/wKgO1V5Q2bPgn-JgACQi6WpaVr0555.m4a"},{"title":"第一期—极巨化！糟糕的训练场和研究所","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/57/1A/wKgO4F5eOnmCto7JAHNEmWICB90273.m4a"}]

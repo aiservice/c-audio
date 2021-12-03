@@ -1,0 +1,1 @@
+var audioList=[{"title":"蒲剧 观画归宗 郭泽民","urlAudio":"https://fdfs.xmcdn.com/group34/M08/F6/F2/wKgJYVnlqx-CbomaAG2n7uiEIJ0823.m4a"},{"title":"三击掌","urlAudio":"https://fdfs.xmcdn.com/group34/M08/82/15/wKgJYFnlqx7z50cTAGEG3c2xVOo203.m4a"},{"title":"蒲剧 清风亭 张秀芳 仰面我把继保喊","urlAudio":"https://fdfs.xmcdn.com/group34/M05/82/15/wKgJYFnlqxjCdfXnACgdsOpy4sI423.m4a"}]

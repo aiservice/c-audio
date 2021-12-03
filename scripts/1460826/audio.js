@@ -1,0 +1,1 @@
+var audioList=[{"title":"大鱼海棠（节选）","urlAudio":"https://fdfs.xmcdn.com/group76/M09/4C/4B/wKgO3l5c0r7AB9HEAAXJfY5oNXQ984.m4a"},{"title":"木兰词打卡","urlAudio":"https://fdfs.xmcdn.com/group76/M04/99/27/wKgO1F5hriPjGHgpAAYehGmunzc961.m4a"},{"title":"传统节日","urlAudio":"https://fdfs.xmcdn.com/group73/M07/F8/2A/wKgO0V54Z1HSKu4zAAjMiRsmojs285.m4a"}]

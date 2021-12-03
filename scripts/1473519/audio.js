@@ -1,0 +1,1 @@
+var audioList=[{"title":"【直播回听】中科沙龙—学术期刊大数据","urlAudio":"https://fdfs.xmcdn.com/group34/M00/D1/3A/wKgJYVnkduTTkBdRBJ6dffkWlUY050.m4a"},{"title":"【直播回听】科学出版社第十五届期刊编辑培训","urlAudio":"https://fdfs.xmcdn.com/group33/M0B/05/42/wKgJTFoDxESwBOehAiASyIjw9fo903.m4a"},{"title":"【直播回听】科学出版社第十五届期刊编辑培训","urlAudio":"https://fdfs.xmcdn.com/group33/M07/06/93/wKgJTFoD03qCxH7RAXQ4exY3Sr8967.m4a"}]

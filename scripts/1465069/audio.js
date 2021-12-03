@@ -1,0 +1,1 @@
+var audioList=[{"title":"第二章","urlAudio":"https://fdfs.xmcdn.com/group77/M02/9E/AA/wKgO315SBeiydKrjAFotf4mcghg631.m4a"},{"title":"第三章","urlAudio":"https://fdfs.xmcdn.com/group75/M07/D7/C3/wKgO015U71CB3VNDAFvIqCn6bgE976.m4a"},{"title":"第五章","urlAudio":"https://fdfs.xmcdn.com/group76/M0B/F7/17/wKgO1F5XUAnRXRRkAF8dbrjiA9A124.m4a"}]

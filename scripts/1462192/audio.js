@@ -1,0 +1,1 @@
+var audioList=[{"title":"七年级下册第1单元【听记版】","urlAudio":"https://fdfs.xmcdn.com/group78/M09/E8/04/wKgO4F54eASTxq_7AFSq-7VSQgA996.m4a"},{"title":"七年级下册第1单元【带读版】","urlAudio":"https://fdfs.xmcdn.com/group73/M03/F0/25/wKgO2154eaHQ_NPrAHOMKykIwMk796.m4a"}]

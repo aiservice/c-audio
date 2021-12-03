@@ -1,0 +1,1 @@
+var audioList=[{"title":"那夜有雨","urlAudio":"https://fdfs.xmcdn.com/group69/M05/0D/F3/wKgMeV3H0FiyaW3_AD5xF-APaHk902.m4a"},{"title":"昨夜银河","urlAudio":"https://fdfs.xmcdn.com/group69/M04/0E/AA/wKgMb13H1nbwj5FVAA__tLEIjY4323.m4a"},{"title":"有风有雨","urlAudio":"https://fdfs.xmcdn.com/group75/M07/70/E3/wKgO3V5fcsfRDVZTABETEoMLFbY552.m4a"}]

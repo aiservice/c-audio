@@ -1,0 +1,1 @@
+var audioList=[{"title":"【秦腔】杜金明--孙膑坐洞","urlAudio":"https://fdfs.xmcdn.com/group72/M02/89/66/wKgO0F4xIYzjhaA3AG2BajK5Pdk950.m4a"},{"title":"【秦腔】杜金明--取成都","urlAudio":"https://fdfs.xmcdn.com/group76/M01/C9/59/wKgO1F5UbvLCggLTATo1JSdF2pc153.m4a"}]

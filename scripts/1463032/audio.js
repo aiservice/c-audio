@@ -1,0 +1,1 @@
+var audioList=[{"title":"周恩来：要“划最大的圈子”不要划“小圈子”","urlAudio":"https://fdfs.xmcdn.com/group60/M09/3E/24/wKgLeV3ve6fzYqjHAB9iCgOoheA976.m4a"},{"title":"民主党派称谓的由来","urlAudio":"https://fdfs.xmcdn.com/group61/M01/D1/76/wKgMZl3wjCPzDbnUACIzClAsIWs299.m4a"},{"title":"八大民主党派的排序是如何确定的","urlAudio":"https://fdfs.xmcdn.com/group61/M01/D1/3B/wKgMcF3wjDvQs5FrACozhMq32nM749.m4a"}]

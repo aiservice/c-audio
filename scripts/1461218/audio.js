@@ -1,0 +1,1 @@
+var audioList=[{"title":"小白学唱歌","urlAudio":"https://fdfs.xmcdn.com/group76/M07/70/73/wKgO1F5fI2uyNVqFAA5aobzkMRk467.m4a"},{"title":"唱歌技巧学习","urlAudio":"https://fdfs.xmcdn.com/group78/M03/C5/DE/wKgO4F51-HLSM0o4AA2_MedpntM404.m4a"}]

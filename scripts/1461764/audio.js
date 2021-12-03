@@ -1,0 +1,1 @@
+var audioList=[{"title":"你在伞里吗","urlAudio":"https://fdfs.xmcdn.com/group67/M05/3B/42/wKgMd13ntILwNJeXABeAa_8e9gs646.m4a"},{"title":"智者无言","urlAudio":"https://fdfs.xmcdn.com/group58/M00/40/57/wKgLc13vlDLBLbW-ABszjTSiDmQ589.m4a"},{"title":"星期一早晨的奇迹","urlAudio":"https://fdfs.xmcdn.com/group59/M04/61/4C/wKgLel34y2Hg5bm2ACAYMX6p52A771.m4a"}]

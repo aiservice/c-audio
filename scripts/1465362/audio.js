@@ -1,0 +1,1 @@
+var audioList=[{"title":"【广播剧】《花妖新娘》第一期","urlAudio":"https://fdfs.xmcdn.com/group37/M00/1D/23/wKgJoFpHkoGDx2JkAT0Y0omZH38157.m4a"},{"title":"【广播剧】《花妖新娘》第二期","urlAudio":"https://fdfs.xmcdn.com/group53/M01/5A/0E/wKgLfFxJXhOxVPmBAOrKM6sFAdE590.m4a"},{"title":"【广播剧】《何生恨》上期","urlAudio":"https://fdfs.xmcdn.com/group56/M03/67/38/wKgLgFx6oZLTtjtvAJl8nXFmw8Q091.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"【直播回听】123","urlAudio":"https://fdfs.xmcdn.com/group76/M09/DC/D9/wKgO3l52MzWgrNd0BAwehoxlGm8056.m4a"},{"title":"【直播回听】123","urlAudio":"https://fdfs.xmcdn.com/group77/M06/E5/F5/wKgO31533vGRKIBbArUgBNwDGvc665.m4a"},{"title":"【直播回听】123","urlAudio":"https://fdfs.xmcdn.com/group75/M02/F6/CB/wKgO3V54xPKz9aDiAbxG59eCbSU067.m4a"}]

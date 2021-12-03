@@ -1,0 +1,1 @@
+var audioList=[{"title":"优质传承 索尼A8F登陆AWE创领未来格局","urlAudio":"https://fdfs.xmcdn.com/group42/M0B/AA/55/wKgJ81rEbD3y9G4TAAbH-Ww-U20251.m4a"},{"title":"直击AWE： 康佳8K与A2艺术电视现场报道","urlAudio":"https://fdfs.xmcdn.com/group42/M00/AA/83/wKgJ81rEbjLxL02QAAnyxhXOUnY775.m4a"}]

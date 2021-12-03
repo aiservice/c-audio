@@ -1,0 +1,1 @@
+var audioList=[{"title":"1. 当老板，是注册合伙企业还是有限责任公司","urlAudio":"https://fdfs.xmcdn.com/group75/M06/DB/AE/wKgO3V5V64_BVEoNACN5DHSMP4A742.m4a"},{"title":"2. 选择有限责任公司还是选择股份有限公司？","urlAudio":"https://fdfs.xmcdn.com/group73/M06/11/29/wKgO215ZJhmTxbfEACsyFB1TDm4861.m4a"}]

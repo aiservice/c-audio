@@ -1,0 +1,1 @@
+var audioList=[{"title":"爱写诗的小螃蟹","urlAudio":"https://fdfs.xmcdn.com/group75/M0A/B0/00/wKgO3V50Kv3y1GuHABFF9oAsLTY310.m4a"},{"title":"风娃娃","urlAudio":"https://fdfs.xmcdn.com/group76/M01/CD/A7/wKgO1F51b6zh4ESbABdNyzCdKZ0461.m4a"},{"title":"雾在哪里","urlAudio":"https://fdfs.xmcdn.com/group73/M01/E9/BF/wKgO2154JInjrp5fABCoDCAExdM398.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"活捉孙富","urlAudio":"https://fdfs.xmcdn.com/group66/M00/66/7D/wKgMdV1lPFCAMMuYAAXJ9C5aqtk770.m4a"},{"title":"牙痕记","urlAudio":"https://fdfs.xmcdn.com/group65/M07/66/48/wKgMdF1lPWaTmzOFAAXFfdOEUbo255.m4a"},{"title":"打狗劝夫","urlAudio":"https://fdfs.xmcdn.com/group66/M0B/66/BD/wKgMa11lPlrQ6jwSAAqkMUnc0x8258.m4a"}]

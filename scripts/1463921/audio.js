@@ -1,0 +1,1 @@
+var audioList=[{"title":"《武汉人春节的一天》","urlAudio":"https://fdfs.xmcdn.com/group71/M0B/22/48/wKgOz14-xWOyfsUCABHJ2rATybA061.m4a"},{"title":"武汉是我的家-一个武汉志愿者的影像日记Vol.1","urlAudio":"https://fdfs.xmcdn.com/group74/M06/37/2B/wKgO3F5bsMGCvc8gAKzPTXBNxnw141.m4a"}]

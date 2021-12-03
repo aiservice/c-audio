@@ -1,0 +1,1 @@
+var audioList=[{"title":"股东资格确认纠纷（一）","urlAudio":"https://fdfs.xmcdn.com/group76/M00/DB/B7/wKgO1F5VS53jtZsoAIX6uN3vNm0263.m4a"},{"title":"公司设立纠纷的裁判标准与规则适用","urlAudio":"https://fdfs.xmcdn.com/group75/M01/87/52/wKgO015gWqLC2pmZAXou4vl0hAY053.m4a"},{"title":"股东资格确认纠纷（2）","urlAudio":"https://fdfs.xmcdn.com/group77/M00/7B/26/wKgO315gWajTEOkMAOeZw2wz0ok958.m4a"}]

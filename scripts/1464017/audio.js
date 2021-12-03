@@ -1,0 +1,1 @@
+var audioList=[{"title":"斐济一个美丽的国度《一》","urlAudio":"https://fdfs.xmcdn.com/group75/M09/5A/E2/wKgO015L7tDTExp2ABO6L_cJ7kQ976.m4a"},{"title":"斐济一个美丽的国度《二》","urlAudio":"https://fdfs.xmcdn.com/group77/M01/A8/E8/wKgO1V5RKKGhZmgXAA8SazFC8bI425.m4a"},{"title":"斐济一个美丽的国度《三》","urlAudio":"https://fdfs.xmcdn.com/group78/M09/71/5B/wKgO4F5ftV3SmmxDAA3gE3YL2FI883.m4a"}]

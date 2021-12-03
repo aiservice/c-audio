@@ -1,0 +1,1 @@
+var audioList=[{"title":"公司法第1章—总则（2019更新版）","urlAudio":"https://fdfs.xmcdn.com/group63/M05/A3/CD/wKgMaFz_pzbDD5vzAEwEVhKcWVk783.m4a"},{"title":"公司法第2章—有限责任公司的设立和组织机构（更新版）","urlAudio":"https://fdfs.xmcdn.com/group62/M09/A5/20/wKgMZ1z_rEqSNfgLALlPoF9tgUo426.m4a"}]

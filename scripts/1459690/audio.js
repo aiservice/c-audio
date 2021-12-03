@@ -1,0 +1,1 @@
+var audioList=[{"title":"《羽善观今》第1集","urlAudio":"https://fdfs.xmcdn.com/group75/M09/A7/68/wKgO015zBOai9r3EALDIj-ZPmUw309.m4a"},{"title":"《羽善观今》第3集","urlAudio":"https://fdfs.xmcdn.com/group75/M09/9D/FF/wKgO3V5zBN7AzZeWAFhqr7_CiHM546.m4a"},{"title":"《羽善观今》第2集","urlAudio":"https://fdfs.xmcdn.com/group75/M09/A7/68/wKgO015zBOPQYmNgAHXaWnUmZY0986.m4a"}]

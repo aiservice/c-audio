@@ -1,0 +1,1 @@
+var audioList=[{"title":"每日一课20180307","urlAudio":"https://fdfs.xmcdn.com/group42/M06/2C/EE/wKgJ81qfQWWjl8-rACxwQYAbBiE971.m4a"},{"title":"每日一课20180306","urlAudio":"https://fdfs.xmcdn.com/group42/M06/2C/F5/wKgJ81qfQY6xQPJoACrd5cWltdg629.m4a"},{"title":"每日一课20180305","urlAudio":"https://fdfs.xmcdn.com/group41/M01/2E/6C/wKgJ8lqfQbihgJx-ACis9ZM2grw868.m4a"}]

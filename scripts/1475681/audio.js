@@ -1,0 +1,1 @@
+var audioList=[{"title":"《渭水村的故事》第1集","urlAudio":"https://fdfs.xmcdn.com/group75/M08/02/E6/wKgO3V55waKiYeQ-AD3FysNix3M876.m4a"},{"title":"《渭水村的故事》第2集","urlAudio":"https://fdfs.xmcdn.com/group78/M01/FC/C5/wKgO4F55wgvRpglUADhV4MAtluA865.m4a"},{"title":"《渭水村的故事》第3集","urlAudio":"https://fdfs.xmcdn.com/group75/M04/0E/F6/wKgO3V56kQzjxoXeADdtd1O57EE505.m4a"}]

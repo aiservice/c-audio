@@ -1,0 +1,1 @@
+var audioList=[{"title":"安徒生童话《豌豆公主》一一《丑小鸭》","urlAudio":"https://fdfs.xmcdn.com/group67/M02/6A/12/wKgMd13NLirDBWOpAMyZ1TTs56M496.m4a"},{"title":"安徒生童话《小意达的花儿》一一《野天鹅》","urlAudio":"https://fdfs.xmcdn.com/group68/M06/7E/CA/wKgMeF3Od7-yxpy2AMSfPkzVtI0928.m4a"}]

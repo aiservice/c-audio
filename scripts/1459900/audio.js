@@ -1,0 +1,1 @@
+var audioList=[{"title":"2思维篇-我们和银行到底是什么关系？确实有人存在很深的误区","urlAudio":"https://fdfs.xmcdn.com/group73/M03/4B/0E/wKgO0V5s1nDjUNRDADWYmeismz8177.m4a"},{"title":"1信用卡真正作用，能明白点的还真不多","urlAudio":"https://fdfs.xmcdn.com/group77/M04/42/A1/wKgO315s1zag-wBOAB1Y9Ozuxf8570.m4a"}]

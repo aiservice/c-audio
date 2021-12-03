@@ -1,0 +1,1 @@
+var audioList=[{"title":"南燕信息获亿元B轮融资背后逻辑分析","urlAudio":"https://fdfs.xmcdn.com/group71/M05/8C/42/wKgO2V45PADSOPJ4AF8rvRQ_Ih0080.m4a"},{"title":"疫情下如何看待芯片投资机会","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/83/C9/wKgO0l5f0pLBHxGXAFANCbDon8k451.m4a"}]

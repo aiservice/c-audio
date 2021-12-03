@@ -1,0 +1,1 @@
+var audioList=[{"title":"全职高手 第一话","urlAudio":"https://fdfs.xmcdn.com/group36/M00/28/2D/wKgJUlo3xaKjPYQcADBsz8weL0c374.m4a"},{"title":"全职高手 第二话","urlAudio":"https://fdfs.xmcdn.com/group49/M0A/D1/4A/wKgKmFvFiw2zoIrbADbgzq9pYRQ378.m4a"}]

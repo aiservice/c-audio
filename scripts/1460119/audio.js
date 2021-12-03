@@ -1,0 +1,1 @@
+var audioList=[{"title":"债券—清水理财","urlAudio":"https://fdfs.xmcdn.com/group42/M04/B3/78/wKgJ81qaWxDi_LqMAA_7MZHJYl4127.m4a"},{"title":"国库券—清水理财金融教育平台","urlAudio":"https://fdfs.xmcdn.com/group42/M01/CA/FD/wKgJ81qbah_jPV-aAA0wImPRfTs278.m4a"}]

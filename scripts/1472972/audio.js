@@ -1,0 +1,1 @@
+var audioList=[{"title":"第三课 相信永远比怀疑要重要（之1）","urlAudio":"https://fdfs.xmcdn.com/group18/M09/42/D3/wKgJKlftztiBQvqQAED_Hrlusrg043.m4a"},{"title":"第三课 相信永远比怀疑要重要（之2）","urlAudio":"https://fdfs.xmcdn.com/group17/M04/44/14/wKgJJFft2JbjGtgHAElmYq0Ixac920.m4a"},{"title":"第三课 相信永远比怀疑要重要（之3）","urlAudio":"https://fdfs.xmcdn.com/group20/M01/42/88/wKgJLFft2KXiYRg-ADR_Zjg1P8U275.m4a"}]

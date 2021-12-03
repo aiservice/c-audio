@@ -1,0 +1,1 @@
+var audioList=[{"title":"【刘新民】朝事已毕下龙廷（带戏词）","urlAudio":"https://fdfs.xmcdn.com/group77/M02/18/02/wKgO1V5o7AHhfO1mAFWff4dGVVM113.m4a"},{"title":"【张枝茂】离北京放罢了炮三声（带戏词）","urlAudio":"https://fdfs.xmcdn.com/group74/M06/0F/A7/wKgO0l5o7F-hGKRwAKDm2g8bSDc366.m4a"}]

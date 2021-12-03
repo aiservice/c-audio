@@ -1,0 +1,1 @@
+var audioList=[{"title":"0614黄金盘中分析","urlAudio":"https://fdfs.xmcdn.com/group44/M05/80/36/wKgKjFsiZ1vzz2CjADnGXE7n8ek594.m4a"}]

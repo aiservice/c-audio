@@ -1,0 +1,1 @@
+var audioList=[{"title":"有","urlAudio":"https://fdfs.xmcdn.com/group77/M00/8F/72/wKgO1V5gaEvhek4cACovbrpq6bw910.m4a"},{"title":"這","urlAudio":"https://fdfs.xmcdn.com/group75/M06/7E/F1/wKgO3V5gaSPjjcE9ABWj4FoukvY144.m4a"},{"title":"有","urlAudio":"https://fdfs.xmcdn.com/group76/M03/84/D9/wKgO3l5gavOAPOMxADq-0575LYk135.m4a"}]

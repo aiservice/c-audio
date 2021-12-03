@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一单元","urlAudio":"https://fdfs.xmcdn.com/group74/M03/47/84/wKgO3F5c2_ujM9v3AB1ZWGqnZME510.m4a"},{"title":"第二单元","urlAudio":"https://fdfs.xmcdn.com/group77/M00/B8/FE/wKgO1V5jCLrgH_kpABK19yU0gi8901.m4a"},{"title":"第三单元","urlAudio":"https://fdfs.xmcdn.com/group75/M09/EE/44/wKgO0153-9-yLw1TABGUOPgp11Q356.m4a"}]

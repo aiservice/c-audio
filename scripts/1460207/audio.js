@@ -1,0 +1,1 @@
+var audioList=[{"title":"诗朗诵《四月的纪念》","urlAudio":"https://fdfs.xmcdn.com/group73/M01/BF/65/wKgO2150zFqDEekWAD3hUCjVgi4178.m4a"},{"title":"《莲的心事》朗诵与赏析","urlAudio":"https://fdfs.xmcdn.com/group75/M0A/F6/F8/wKgO0154cKChB2LYAB9wmHfDeQ0960.m4a"}]

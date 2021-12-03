@@ -1,0 +1,1 @@
+var audioList=[{"title":"一至四品","urlAudio":"https://fdfs.xmcdn.com/group36/M03/B5/87/wKgJUlovkzyBwU5VABaITbVvRus689.m4a"},{"title":"五至八品","urlAudio":"https://fdfs.xmcdn.com/group36/M05/B6/43/wKgJUlovlwSjQhTEABi9pMCjK8Q262.m4a"},{"title":"九至十二品","urlAudio":"https://fdfs.xmcdn.com/group76/M02/F7/1B/wKgO1F54UgaDnqw3ACDFLJIyR5s715.m4a"}]

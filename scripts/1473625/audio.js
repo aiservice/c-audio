@@ -1,0 +1,1 @@
+var audioList=[{"title":"智能家电模块方案不是长久之计","urlAudio":"https://fdfs.xmcdn.com/group11/M08/58/7B/wKgDbVcYwxDSpO0MAFAVS_gTrGo256.m4a"},{"title":"智能家电是不是必要与紧急","urlAudio":"https://fdfs.xmcdn.com/group9/M0B/4C/8D/wKgDYlcXgs3D_jEPACTd-Qns1Fs224.m4a"},{"title":"智能家电的销售如何更好进行","urlAudio":"https://fdfs.xmcdn.com/group14/M01/4D/DB/wKgDY1cXguDTQmzgACR0XEXne8U245.m4a"}]

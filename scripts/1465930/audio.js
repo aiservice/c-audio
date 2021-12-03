@@ -1,0 +1,1 @@
+var audioList=[{"title":"打糕——清香绵软 嚼之筋道","urlAudio":"https://fdfs.xmcdn.com/group69/M09/D7/07/wKgMeV35gmOS-QOdACKohM-I4dE656.m4a"},{"title":"冷面——面中之王 满口生津","urlAudio":"https://fdfs.xmcdn.com/group54/M02/03/D1/wKgLfV35gsSztBUcAC4nRVxH0ks180.m4a"},{"title":"泡菜—— 闻名天下 风靡全国","urlAudio":"https://fdfs.xmcdn.com/group58/M01/61/6E/wKgLgl35g0KhfykDAC0BlVftRUU217.m4a"}]

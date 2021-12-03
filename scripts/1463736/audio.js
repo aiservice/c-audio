@@ -1,0 +1,1 @@
+var audioList=[{"title":"桃花红杏花白–左权民歌","urlAudio":"https://fdfs.xmcdn.com/group64/M0A/86/1E/wKgMaV2K28fTmA77AA2c1LfUEaM259.m4a"},{"title":"打酸枣–左权民歌","urlAudio":"https://fdfs.xmcdn.com/group66/M00/85/2B/wKgMdV2K3OygxIIFAAx7jkcBUL4219.m4a"},{"title":"偷点心–祁太秧歌","urlAudio":"https://fdfs.xmcdn.com/group66/M05/85/14/wKgMa12K4fjQkoHvAA868L-aavY285.m4a"}]

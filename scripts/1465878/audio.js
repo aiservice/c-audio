@@ -1,0 +1,1 @@
+var audioList=[{"title":"钱七虎：年轻人写论文不该仅仅为了学位","urlAudio":"https://fdfs.xmcdn.com/group54/M0B/F5/A7/wKgLclw4eMqzZ-qxABruzuZi3kc125.m4a"},{"title":"80多岁高龄还坚持现场参加科研讨论","urlAudio":"https://fdfs.xmcdn.com/group54/M0B/F5/A5/wKgLclw4eMSD1VL0ACEtuVKU3_I527.m4a"},{"title":"他默默无闻在为国家打造“金钟罩”","urlAudio":"https://fdfs.xmcdn.com/group54/M03/F5/26/wKgLfVw4eMfjfdIdAButtFoP-Gk009.m4a"}]

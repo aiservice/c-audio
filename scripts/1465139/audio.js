@@ -1,0 +1,1 @@
+var audioList=[{"title":"澜渊独白（cover：纨绔广播剧）","urlAudio":"https://fdfs.xmcdn.com/group74/M08/9C/58/wKgO3F5iH9ajfaadABIMl3x-iXQ510.m4a"},{"title":"宣【念白】（剑网三同人）","urlAudio":"https://fdfs.xmcdn.com/group75/M0A/9C/39/wKgO3V5iI9-Q4bccACJKIpXG36E912.m4a"},{"title":"寇岛接电话（剑网三）","urlAudio":"https://fdfs.xmcdn.com/group75/M08/A5/BF/wKgO015iJIaiXQGkAAwPDbLVDy0803.m4a"}]

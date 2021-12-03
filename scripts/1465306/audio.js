@@ -1,0 +1,1 @@
+var audioList=[{"title":"法商思维","urlAudio":"https://fdfs.xmcdn.com/group73/M0A/91/B3/wKgO215hrSexYBeWAA5uvpP1apM836.m4a"},{"title":"财富本质","urlAudio":"https://fdfs.xmcdn.com/group74/M07/9C/55/wKgO0l5hrVCBPKRVAB4RYTCDQgY518.m4a"},{"title":"财富的本质","urlAudio":"https://fdfs.xmcdn.com/group78/M08/9E/FA/wKgO1l5hrWDy3H5eADOCc-F1C1w274.m4a"}]

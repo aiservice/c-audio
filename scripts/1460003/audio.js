@@ -1,0 +1,1 @@
+var audioList=[{"title":"积分用途","urlAudio":"https://fdfs.xmcdn.com/group54/M08/CE/93/wKgLfVxOf86Tlue1AJ7ykEUjzH0361.m4a"},{"title":"如何正确填写收入","urlAudio":"https://fdfs.xmcdn.com/group72/M0B/06/B9/wKgO0F4AXxagwsA4ABSa2vGwJEg024.m4a"}]

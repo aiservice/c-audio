@@ -1,0 +1,1 @@
+var audioList=[{"title":"阿迟（第一篇）剔骨","urlAudio":"https://fdfs.xmcdn.com/group72/M01/F8/82/wKgO0F4a8s2AawBiAD29P9NIHao132.m4a"},{"title":"阿迟（第二篇）改命","urlAudio":"https://fdfs.xmcdn.com/group71/M04/8F/13/wKgO2V4b6MPCtEN9AFyEmVRhDRU899.m4a"}]

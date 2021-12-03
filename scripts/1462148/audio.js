@@ -1,0 +1,1 @@
+var audioList=[{"title":"子宣陪你闯江湖（01）","urlAudio":"https://fdfs.xmcdn.com/group73/M09/68/B1/wKgO215fHleT4Lw4AQR2yQb0mys416.m4a"},{"title":"子宣陪你闯江湖（02）","urlAudio":"https://fdfs.xmcdn.com/group77/M08/0D/53/wKgO315prhPwpIFpAQPHT1hv-cI685.m4a"},{"title":"子宣陪你闯江湖（03）","urlAudio":"https://fdfs.xmcdn.com/group73/M06/86/6F/wKgO215xh6TxF_CxAODJ5205nfQ264.m4a"}]

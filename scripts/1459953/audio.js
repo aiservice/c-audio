@@ -1,0 +1,1 @@
+var audioList=[{"title":"yo姐供需通道儿歌","urlAudio":"https://fdfs.xmcdn.com/group74/M01/09/1A/wKgO3F5pAkWT-TefAASmVD1MrI0257.m4a"},{"title":"yo姐量价儿歌","urlAudio":"https://fdfs.xmcdn.com/group76/M0B/0E/AE/wKgO1F5pAtLTbps4AAey5_Rg9AQ980.m4a"},{"title":"21条交易准则","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/09/40/wKgO3F5pA9nCcaItABWbHeWE5E8179.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"游戏设计艺术-第一章-太初之时,有设计师","urlAudio":"https://fdfs.xmcdn.com/group77/M05/8B/24/wKgO1V5f1EHzcl20AKVzkh-6RBQ660.m4a"},{"title":"游戏设计艺术-第二章-设计师创造体验","urlAudio":"https://fdfs.xmcdn.com/group73/M01/BF/4B/wKgO0V5jxLrw5NDZAVbvLaxrYJM099.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"铸就我们民族的精神航道","urlAudio":"https://fdfs.xmcdn.com/group18/M01/8E/2B/wKgJJVgHOJ7TfyDgACZ9fL4Wt78520.m4a"},{"title":"朗诵艺术家、著名配音演员詹泽为你朗诵长征任仲平","urlAudio":"https://fdfs.xmcdn.com/group17/M01/8F/B0/wKgJKVgHVMGiro7gAByv7VQOnvU817.m4a"},{"title":"重要的事情说三遍！ 听詹泽为你讲述任仲平","urlAudio":"https://fdfs.xmcdn.com/group17/M00/94/22/wKgJJFgIm7qwgdFSACCKtk9aXPE774.m4a"}]

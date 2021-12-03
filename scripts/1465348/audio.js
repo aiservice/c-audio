@@ -1,0 +1,1 @@
+var audioList=[{"title":"声声慢","urlAudio":"https://fdfs.xmcdn.com/group71/M06/FB/D8/wKgO2V4zKamSox2KAAkvMxa8Xjw701.m4a"},{"title":"春江花月夜","urlAudio":"https://fdfs.xmcdn.com/group71/M0A/07/4A/wKgO2V4zza7Rj0c2ACCcfPSMlbk126.m4a"}]

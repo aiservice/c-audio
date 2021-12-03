@@ -1,0 +1,1 @@
+var audioList=[{"title":"《坍缩》第一集","urlAudio":"https://fdfs.xmcdn.com/group68/M06/83/D6/wKgMeF3sT9fB2O4eAGX4m2rlah8411.m4a"},{"title":"《坍缩》第二集","urlAudio":"https://fdfs.xmcdn.com/group68/M07/84/54/wKgMbl3sYC3jhO_QAHV8tktPI08112.m4a"}]

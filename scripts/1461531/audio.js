@@ -1,0 +1,1 @@
+var audioList=[{"title":"2020年快车投放第一讲（共5讲）","urlAudio":"https://fdfs.xmcdn.com/group69/M06/87/2E/wKgMb12_oenhMm__AS6qMyGeg_8302.m4a"},{"title":"如何利用快车抢夺单品关键词流量？","urlAudio":"https://fdfs.xmcdn.com/group74/M00/F7/75/wKgO0l54a6_BK41QAD36dsK2UHs537.m4a"}]

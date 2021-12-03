@@ -1,0 +1,1 @@
+var audioList=[{"title":"身体能量课","urlAudio":"https://fdfs.xmcdn.com/group78/M05/F8/26/wKgO4F5X1mLSzxtsADTiNULqs48447.m4a"},{"title":"3月1日身体能量课","urlAudio":"https://fdfs.xmcdn.com/group77/M0A/37/D8/wKgO1V5aku7D81IAAEMADNhTt2Q183.m4a"}]

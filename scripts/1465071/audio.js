@@ -1,0 +1,1 @@
+var audioList=[{"title":"快穿之拯救女神简介","urlAudio":"https://fdfs.xmcdn.com/group75/M02/DF/19/wKgO3V5WGc2ik32JAAJWGVkShr4687.m4a"},{"title":"快穿之拯救女神第一章","urlAudio":"https://fdfs.xmcdn.com/group74/M07/DF/38/wKgO3F5WHvywD6EKABXISSQwDP8180.m4a"}]

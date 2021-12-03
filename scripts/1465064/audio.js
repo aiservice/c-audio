@@ -1,0 +1,1 @@
+var audioList=[{"title":"楔子","urlAudio":"https://fdfs.xmcdn.com/group78/M00/58/FE/wKgO1l5dBs6ypt1mAFFOmK1dBwk526.m4a"},{"title":"第一章 赐婚风波","urlAudio":"https://fdfs.xmcdn.com/group76/M09/52/91/wKgO1F5dCaawAnrcAEearSSGq4U470.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"十八生死线（预告）","urlAudio":"https://fdfs.xmcdn.com/group77/M05/87/0D/wKgO315P_gjjg4K3ACxTH76QHN4316.m4a"},{"title":"十八生死线 第一季第1集","urlAudio":"https://fdfs.xmcdn.com/group73/M03/94/3A/wKgO0V5P_7qyx-HgAFzFOhJPg40953.m4a"},{"title":"十八生死线 第一季第2集","urlAudio":"https://fdfs.xmcdn.com/group73/M05/8A/D2/wKgO215QAmKzFGPzAFuMdMG7gdE927.m4a"}]

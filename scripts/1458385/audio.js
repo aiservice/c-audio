@@ -1,0 +1,1 @@
+var audioList=[{"title":"课文2《我多想去看看》","urlAudio":"https://fdfs.xmcdn.com/group76/M00/2F/80/wKgO1F5rQb3RfBHIAAZS-mQjky0608.m4a"},{"title":"识字2《姓氏歌》","urlAudio":"https://fdfs.xmcdn.com/group71/M07/C0/DF/wKgO2V5E3TijCb7mAALi22-gHeA309.m4a"}]

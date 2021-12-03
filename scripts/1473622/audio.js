@@ -1,0 +1,1 @@
+var audioList=[{"title":"智能硬件产品经理该如何做好","urlAudio":"https://fdfs.xmcdn.com/group14/M03/5E/D8/wKgDY1cqBOuDzeJxACkeZagfL2w442.m4a"},{"title":"智能硬件与智能家居的发展模式","urlAudio":"https://fdfs.xmcdn.com/group8/M03/4C/AC/wKgDYVcXpirh5lFfAMlGDL7pKmE408.m4a"},{"title":"互联基因智能家居创业失败为什么比较高","urlAudio":"https://fdfs.xmcdn.com/group16/M06/4C/A0/wKgDalcXgqOCD6-KACUM6kqF5XY583.m4a"}]

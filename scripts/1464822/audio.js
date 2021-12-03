@@ -1,0 +1,1 @@
+var audioList=[{"title":"vol1.你知道怎样拯救废片吗？","urlAudio":"https://fdfs.xmcdn.com/group75/M0A/F5/95/wKgO3V5XgPiiK0YgAAdKnY1yOws284.m4a"},{"title":"vol2.你还在愁电脑有色差吗？","urlAudio":"https://fdfs.xmcdn.com/group74/M06/8F/51/wKgO0l5gw1LD8qauAAt6VUvzEfU289.m4a"},{"title":"vol.3成为摄影师需要到影楼去做助理吗？","urlAudio":"https://fdfs.xmcdn.com/group74/M02/24/37/wKgO0l5qNTbCsp_BAA6KcLCNrN4681.m4a"}]

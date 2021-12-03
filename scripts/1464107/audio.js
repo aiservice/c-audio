@@ -1,0 +1,1 @@
+var audioList=[{"title":"慢肌训练","urlAudio":"https://fdfs.xmcdn.com/group46/M00/F4/DE/wKgKlltdRMfiWhmkAJTxqwgEaKs923.m4a"},{"title":"呼吸放松训练","urlAudio":"https://fdfs.xmcdn.com/group45/M09/DE/9C/wKgKlFtdRjCS615vAHFx5lNlg9k450.m4a"}]

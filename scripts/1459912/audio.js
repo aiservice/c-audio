@@ -1,0 +1,1 @@
+var audioList=[{"title":"中华人民共和国继承法","urlAudio":"https://fdfs.xmcdn.com/group65/M06/6F/E5/wKgMdF2drNjhkhbgAGgfQoDM3zM289.m4a"},{"title":"信托法","urlAudio":"https://fdfs.xmcdn.com/group65/M04/65/EE/wKgMal2cKyqyFFoBAMl98pwZJ2c979.m4a"},{"title":"中华人民共和国婚姻法(2001修正)","urlAudio":"https://fdfs.xmcdn.com/group65/M04/6F/46/wKgMdF2djV-zgIvyAI84Hp5W3pY195.m4a"}]

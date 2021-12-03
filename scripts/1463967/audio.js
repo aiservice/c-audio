@@ -1,0 +1,1 @@
+var audioList=[{"title":"夭折的小树","urlAudio":"https://fdfs.xmcdn.com/group72/M02/4B/5A/wKgO0F464omxhAogABCMrtbJW1Q501.m4a"},{"title":"面朝大海，春暖花开","urlAudio":"https://fdfs.xmcdn.com/group70/M02/BE/2B/wKgOzl465EHQXzrUAApHYd85pT8818.m4a"},{"title":"太阳是大家的","urlAudio":"https://fdfs.xmcdn.com/group70/M08/BE/6A/wKgOzl465zHj4-ptAAlyyqvYnVM792.m4a"}]

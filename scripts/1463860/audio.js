@@ -1,0 +1,1 @@
+var audioList=[{"title":"01，我们的旅行从哪里开始","urlAudio":"https://fdfs.xmcdn.com/group78/M01/59/06/wKgO4F5vJLTwsOIKACCCKXpJf5c505.m4a"},{"title":"02，跟着歌曲游中国","urlAudio":"https://fdfs.xmcdn.com/group75/M0B/92/E8/wKgO015xugyzxQ-WAFCqRQurbec821.m4a"},{"title":"03,你想跟团还是自由行？","urlAudio":"https://fdfs.xmcdn.com/group78/M0A/E4/EB/wKgO4F54TjSywTzGAG9fREiTk7c397.m4a"}]

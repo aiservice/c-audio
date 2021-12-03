@@ -1,0 +1,1 @@
+var audioList=[{"title":"1.新猎头碰到难啃的职位怎么办？","urlAudio":"https://fdfs.xmcdn.com/group73/M0A/FF/15/wKgO215ou9nTnLqHAD7Qea7v04Y061.m4a"},{"title":"2.怎么才能知道职位下面的人是否已经被挖干净了？","urlAudio":"https://fdfs.xmcdn.com/group75/M09/2B/27/wKgO015q8pWS0etNAD7wLubOG2A411.m4a"}]

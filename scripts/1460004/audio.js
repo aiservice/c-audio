@@ -1,0 +1,1 @@
+var audioList=[{"title":"季爽老师分享贵专财务思维","urlAudio":"https://fdfs.xmcdn.com/group60/M04/5F/3D/wKgLb13416LgoRa0AoDE4UVQ-UE922.m4a"}]

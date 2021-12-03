@@ -1,0 +1,1 @@
+var audioList=[{"title":"练习1","urlAudio":"https://fdfs.xmcdn.com/group71/M01/DF/83/wKgOz148L9LSTt5hABGbqGldDC0683.m4a"},{"title":"我和你一样","urlAudio":"https://fdfs.xmcdn.com/group75/M05/D8/91/wKgO3V52-zGDtL26ABSUVwCFm3c487.m4a"}]

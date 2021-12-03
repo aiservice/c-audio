@@ -1,0 +1,1 @@
+var audioList=[{"title":"寻欢mp3","urlAudio":"https://fdfs.xmcdn.com/group71/M09/BE/36/wKgOz14MrFGjajGvABh5ayDsBGQ451.m4a"},{"title":"寻欢第二期","urlAudio":"https://fdfs.xmcdn.com/group70/M01/4F/9D/wKgOzl4XJmfQN-91ABP_NfWrFNs186.m4a"}]

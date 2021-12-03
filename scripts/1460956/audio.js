@@ -1,0 +1,1 @@
+var audioList=[{"title":"个人理财理论与实践","urlAudio":"https://fdfs.xmcdn.com/group44/M05/F7/D5/wKgKkVr4z2HAWBUSAIQmTQ8WW6c117.m4a"},{"title":"为什么房价就是你身价的体现","urlAudio":"https://fdfs.xmcdn.com/group46/M01/9D/8C/wKgKlls_ZUyTiTo_ABzObaL_AGU326.m4a"},{"title":"看懂什么层面的问题，才能赚到什么层面的钱","urlAudio":"https://fdfs.xmcdn.com/group46/M0B/70/A6/wKgKlltmU3PzWOAQAE48FzzPMm8647.m4a"}]

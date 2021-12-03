@@ -1,0 +1,1 @@
+var audioList=[{"title":"推进领导干部能上能下若干规定（试行）【上】","urlAudio":"https://fdfs.xmcdn.com/group21/M01/8C/57/wKgJLVilgMyRkxuDADdtxK8Hee4599.m4a"},{"title":"推进领导干部能上能下若干规定（试行）【下】","urlAudio":"https://fdfs.xmcdn.com/group24/M0A/8D/6D/wKgJNVilgTjRpbnyAClYxGZDZJ4043.m4a"}]

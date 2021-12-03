@@ -1,0 +1,1 @@
+var audioList=[{"title":"饮酒","urlAudio":"https://fdfs.xmcdn.com/group76/M05/2D/58/wKgO3l5aiFXwZETQAASnsTuEzUc222.m4a"},{"title":"晓出净慈寺送林子方","urlAudio":"https://fdfs.xmcdn.com/group73/M09/41/82/wKgO215cqI3zRqjMAALLByCIzkc268.m4a"}]

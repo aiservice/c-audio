@@ -1,0 +1,1 @@
+var audioList=[{"title":"咏柳","urlAudio":"https://fdfs.xmcdn.com/group76/M06/5B/1D/wKgO3l5d1FWjkpj1AALlztUtGRU085.m4a"},{"title":"赋得古原草送别","urlAudio":"https://fdfs.xmcdn.com/group77/M02/3A/52/wKgO1V5rMKng4FiCAAMPBvpgf_w894.m4a"},{"title":"村居","urlAudio":"https://fdfs.xmcdn.com/group75/M06/ED/22/wKgO3V54bPmwxRV1AAYOKgPQIdo555.m4a"}]

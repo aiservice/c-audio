@@ -1,0 +1,1 @@
+var audioList=[{"title":"西藏景点介绍01：你的随身导游","urlAudio":"https://fdfs.xmcdn.com/group74/M06/35/61/wKgO0l5rY1mjWI87ABXTZTJUx70220.m4a"},{"title":"西藏景点介绍02：罗布林卡","urlAudio":"https://fdfs.xmcdn.com/group74/M0B/37/83/wKgO0l5reOaw3_UXACWvXq_5wwc311.m4a"}]

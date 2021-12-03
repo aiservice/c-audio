@@ -1,0 +1,1 @@
+var audioList=[{"title":"大盗贼|卷一 引子：有一种职业叫盗贼","urlAudio":"https://fdfs.xmcdn.com/group77/M00/D2/41/wKgO3152HhyhKrw_ACR6fmoYw8o329.m4a"},{"title":"大盗贼|卷一 第一章：带着七把短刀的汉子","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/E6/19/wKgO0l53LsDyXj95ADOwHdqOPfk284.m4a"},{"title":"大盗贼|卷一 第二章：协助警察去干","urlAudio":"https://fdfs.xmcdn.com/group73/M04/F9/DF/wKgO0V54fSaTON64ADC0wod-JSw391.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"刀郎 手心里的温暖","urlAudio":"https://fdfs.xmcdn.com/group22/M06/08/C3/wKgJM1paFKigkdrOACSdTYpbMSU215.m4a"},{"title":"怀念战友 刀郎","urlAudio":"https://fdfs.xmcdn.com/group39/M03/43/40/wKgJnlpkX3CD54VEACXLzm2ni-8751.m4a"},{"title":"永远的兄弟-刀郎","urlAudio":"https://fdfs.xmcdn.com/group39/M02/43/48/wKgJn1pkYJGh54FEABaZ6xMp3UQ898.m4a"}]

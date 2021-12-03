@@ -1,0 +1,1 @@
+var audioList=[{"title":"蓝色星球上最后一片净土——稻城亚丁","urlAudio":"https://fdfs.xmcdn.com/group76/M06/2C/FB/wKgO3l5agYSgTtQSAD9pD1ekFU8425.m4a"},{"title":"惊艳你的边塞小城——阿尔山","urlAudio":"https://fdfs.xmcdn.com/group74/M03/BF/01/wKgO0l5jqf_gioeKACnDjT--1vE195.m4a"},{"title":"遗失在人间的“天空之境”——茶卡盐湖","urlAudio":"https://fdfs.xmcdn.com/group73/M02/6B/6F/wKgO215vkoOA6xBbAGhksgySUPA880.m4a"}]

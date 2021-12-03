@@ -1,0 +1,1 @@
+var audioList=[{"title":"蒋兴哥重会珍珠衫（上）","urlAudio":"https://fdfs.xmcdn.com/group75/M09/D5/3B/wKgO3V52xseCC1NYAC7-3GhsLTg791.m4a"},{"title":"蒋兴哥重会珍珠衫（中）","urlAudio":"https://fdfs.xmcdn.com/group77/M05/E0/3C/wKgO3153VGXzUww_ADNnCaHbWDI738.m4a"},{"title":"蒋兴哥重会珍珠衫（下）","urlAudio":"https://fdfs.xmcdn.com/group77/M06/04/D0/wKgO1V54j1OCeLzBADNEKgJFUwk405.m4a"}]

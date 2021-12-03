@@ -1,0 +1,1 @@
+var audioList=[{"title":"孔明智激周瑜【瑜亮党偷笑】","urlAudio":"https://fdfs.xmcdn.com/group30/M06/D8/EA/wKgJXll94yqhfCiPADPw-H1BPJ0633.m4a"},{"title":"诸葛亮舌战群儒","urlAudio":"https://fdfs.xmcdn.com/group30/M0B/DC/17/wKgJXll98TuSOqSTAENsR-L-nuQ021.m4a"},{"title":"《出师表》初中读的时候没感觉，现今重读感其意切、竟至落泪！","urlAudio":"https://fdfs.xmcdn.com/group31/M03/3A/8A/wKgJSVmPgiTxgTM6ABoswIB8y3A081.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"毛主席70寿辰那一天（上）","urlAudio":"https://fdfs.xmcdn.com/group75/M07/E9/FC/wKgO3V54QTLDf17IAE6d11_2g8Y098.m4a"},{"title":"毛主席70寿辰那一天（下）","urlAudio":"https://fdfs.xmcdn.com/group73/M01/F7/55/wKgO0V54XBnTMv6wAEpc2N9yQsc660.m4a"},{"title":"毛主席接见溥仪","urlAudio":"https://fdfs.xmcdn.com/group76/M00/0C/5C/wKgO3l55n6zSCpqwAGbk9OwAw9Q852.m4a"}]

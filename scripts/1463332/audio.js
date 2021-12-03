@@ -1,0 +1,1 @@
+var audioList=[{"title":"王岩演唱洪羊洞三段","urlAudio":"https://fdfs.xmcdn.com/group73/M01/FA/99/wKgO0V54hnTy_jKxAEtfcUJiF6E922.m4a"},{"title":"王岩演唱捉放曹","urlAudio":"https://fdfs.xmcdn.com/group78/M0A/02/26/wKgO1l54uFjw7RahAHHO_ZrCv_A787.m4a"},{"title":"王岩演唱清官册","urlAudio":"https://fdfs.xmcdn.com/group77/M03/15/21/wKgO1V55oWeyVumkAFkWycNHaw4834.m4a"}]

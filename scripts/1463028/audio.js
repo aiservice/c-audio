@@ -1,0 +1,1 @@
+var audioList=[{"title":"报名入伍的战友，体检前这些事项你要注意！","urlAudio":"https://fdfs.xmcdn.com/group75/M02/6C/CC/wKgO015NNh7jyDxIAA7Z0T57iDY406.m4a"},{"title":"转业士官，易地安置相关政策解答！","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/C0/CD/wKgO3F5T3UODvPboAAxNNYsp7zA999.m4a"}]

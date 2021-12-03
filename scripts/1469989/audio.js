@@ -1,0 +1,1 @@
+var audioList=[{"title":"《菩提偈》刘惜君（电视剧《独孤天下》片尾曲）","urlAudio":"https://fdfs.xmcdn.com/group42/M07/F0/92/wKgJ81qc6eawJMF6AB5IKNXLXIE392.m4a"},{"title":"刘惜君《菩提偈》（电视剧《独孤天下》片尾曲）TV版MV)","urlAudio":"https://fdfs.xmcdn.com/group41/M0B/32/00/wKgJ8VqffYazgZPpABKQXEfOH2c378.m4a"}]

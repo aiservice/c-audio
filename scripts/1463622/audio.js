@@ -1,0 +1,1 @@
+var audioList=[{"title":"大实话","urlAudio":"https://fdfs.xmcdn.com/group58/M08/09/4F/wKgLc1zFoBrwXVtKABPYz9F3zEw606.m4a"},{"title":"挡谅","urlAudio":"https://fdfs.xmcdn.com/group59/M03/09/6C/wKgLeFzFoOHB_XfFAAeAvloBZEc958.m4a"},{"title":"乾坤袋","urlAudio":"https://fdfs.xmcdn.com/group58/M03/09/B1/wKgLglzFooDQhbYRABOSiF2YT7Q320.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"声音来源2015-11-30【静言股市】：初心","urlAudio":"https://fdfs.xmcdn.com/group35/M09/B2/CF/wKgJnFoawr7g5TGZAMg_V60i_r8952.m4a"},{"title":"方星海部分简介","urlAudio":"https://fdfs.xmcdn.com/group52/M03/4A/B4/wKgLe1xIe2KhEzINACQVPkC33QE889.m4a"}]

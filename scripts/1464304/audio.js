@@ -1,0 +1,1 @@
+var audioList=[{"title":"广大圆满无碍大悲心陀罗尼","urlAudio":"https://fdfs.xmcdn.com/group73/M05/4C/56/wKgO215dE5XTJ1W6ABKOK-zJJsY395.m4a"},{"title":"吉祥经","urlAudio":"https://fdfs.xmcdn.com/group74/M05/57/89/wKgO0l5dFpmQcIQvABIDlFjKSb4619.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"泰勒公式的由来 笑话","urlAudio":"https://fdfs.xmcdn.com/group56/M0B/47/2A/wKgLgFyd8SGwd7FvAAY95RNiZ3g333.m4a"},{"title":"泰勒公式展开原则","urlAudio":"https://fdfs.xmcdn.com/group57/M09/47/96/wKgLd1yd9XKT_BVkAAK2l394IWM020.m4a"}]

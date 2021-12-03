@@ -1,0 +1,1 @@
+var audioList=[{"title":"【贰B旅行法则】厦门之夏 -NJ小贰","urlAudio":"https://fdfs.xmcdn.com/group10/M02/32/90/wKgDZ1WSiWOQ--alALTZufMtPi4299.m4a"},{"title":"【贰B旅行法则】漫步成都-NJ小贰","urlAudio":"https://fdfs.xmcdn.com/group11/M01/1E/F2/wKgDa1V56hbS-9yPARK7OW3WUaM360.m4a"},{"title":"【贰B旅行法则】四季海南-NJ小贰","urlAudio":"https://fdfs.xmcdn.com/group15/M07/24/78/wKgDZVV_7drhOTyDANMSFXL3-yg307.m4a"}]

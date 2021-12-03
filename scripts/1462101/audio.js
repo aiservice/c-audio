@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一章 基本概念","urlAudio":"https://fdfs.xmcdn.com/group75/M05/3F/1C/wKgO015KN9qSpnR5AAlAUZ1blOo693.m4a"},{"title":"1.1 0吸收光谱与激发光谱","urlAudio":"https://fdfs.xmcdn.com/group76/M06/3A/6B/wKgO1F5KOPTRiuisABslDR3aQ6s507.m4a"}]

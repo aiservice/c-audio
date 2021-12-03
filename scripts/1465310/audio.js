@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一集 热血远征国军抗战","urlAudio":"https://fdfs.xmcdn.com/group75/M04/69/CB/wKgO015NG5fzrGfMATefe7MukmU441.m4a"},{"title":"第二集 热血远征，国军抗战","urlAudio":"https://fdfs.xmcdn.com/group78/M02/7F/F3/wKgO1l5OYxKjCjCVAbwSBi4uOQU281.m4a"}]

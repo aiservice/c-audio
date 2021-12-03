@@ -1,0 +1,1 @@
+var audioList=[{"title":"卡特教练01-失败团队的特质","urlAudio":"https://fdfs.xmcdn.com/group73/M03/F9/89/wKgO0V54eZqQ9yXcAFQIGkXGEFs034.m4a"},{"title":"02-如何接管失败的团队","urlAudio":"https://fdfs.xmcdn.com/group78/M0A/0B/2C/wKgO1l55foOzO4UdALGbcDpjv2M117.m4a"}]

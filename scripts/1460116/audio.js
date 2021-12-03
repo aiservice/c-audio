@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一部_大数据择基","urlAudio":"https://fdfs.xmcdn.com/group43/M0A/CE/7C/wKgKklsA47DTgbswAMZiHB9ksOM337.m4a"},{"title":"第二部_择时","urlAudio":"https://fdfs.xmcdn.com/group44/M03/CF/BD/wKgKkVsA5Mbg5sUvAKXh85A05QA368.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"序","urlAudio":"https://fdfs.xmcdn.com/group73/M01/25/5C/wKgO215aerySQGTrAAkn3b8I5Jc923.m4a"},{"title":"第一章 从柱岛出发","urlAudio":"https://fdfs.xmcdn.com/group73/M09/42/C6/wKgO215cuHeiUfySAJmR7qtyaAg165.m4a"},{"title":"第二章 日本海军战略的演变之一、战前的发展","urlAudio":"https://fdfs.xmcdn.com/group74/M07/E8/DF/wKgO0l53VeKikh3oAJQcv8eQXfs232.m4a"}]

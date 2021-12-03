@@ -1,0 +1,1 @@
+var audioList=[{"title":"良辰美景","urlAudio":"https://fdfs.xmcdn.com/group76/M07/6A/DE/wKgO3l5ehCaCze4kAGq6kodDLX4398.m4a"},{"title":"第二章 旧时","urlAudio":"https://fdfs.xmcdn.com/group78/M07/71/C9/wKgO1l5eiWqReVywAFstPHN-P28278.m4a"},{"title":"第三章 母亲","urlAudio":"https://fdfs.xmcdn.com/group74/M02/65/F8/wKgO3F5enj3BzSUnAGOkJfKZYrE611.m4a"}]

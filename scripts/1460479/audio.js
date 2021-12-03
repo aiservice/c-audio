@@ -1,0 +1,1 @@
+var audioList=[{"title":"《蝉》","urlAudio":"https://fdfs.xmcdn.com/group71/M05/09/8D/wKgOz14z4dOjK2u2ABZnqen_bbQ355.m4a"},{"title":"野望","urlAudio":"https://fdfs.xmcdn.com/group71/M04/4A/EF/wKgOz142o53Tm8GJACHBsLEuqrc620.m4a"},{"title":"梦游天姥吟留别","urlAudio":"https://fdfs.xmcdn.com/group73/M07/F9/30/wKgO0V54dUzjhEsvABww2g8w82Q471.m4a"}]

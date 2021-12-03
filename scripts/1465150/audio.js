@@ -1,0 +1,1 @@
+var audioList=[{"title":"阿令经典台词","urlAudio":"https://fdfs.xmcdn.com/group70/M08/04/6B/wKgO2F49grXRMbs-ABCzMiz5gP0884.m4a"},{"title":"阿令经典台词2","urlAudio":"https://fdfs.xmcdn.com/group70/M04/1F/19/wKgOzl4-oviBR_SzABAqW0DAEj8164.m4a"}]

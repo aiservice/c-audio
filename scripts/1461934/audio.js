@@ -1,0 +1,1 @@
+var audioList=[{"title":"【直播回听】SQL Server[1]","urlAudio":"https://fdfs.xmcdn.com/group76/M08/3B/65/wKgO3l5KQwizHOqiAMMl2jtPXpM937.m4a"},{"title":"【直播回听】SQL Server[2]","urlAudio":"https://fdfs.xmcdn.com/group77/M05/44/A0/wKgO315LlFHj9rXIAKT0BGLXItE516.m4a"},{"title":"【直播回听】SQL Server[3]","urlAudio":"https://fdfs.xmcdn.com/group78/M04/69/95/wKgO1l5M5q7wcyIFANIhZiYCEXU973.m4a"}]

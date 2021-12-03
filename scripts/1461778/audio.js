@@ -1,0 +1,1 @@
+var audioList=[{"title":"加拿大的汽车产业、智能手机与5G发展","urlAudio":"https://fdfs.xmcdn.com/group66/M02/72/0A/wKgMa11TIMiR2lBlACDVkfuTDpw256.m4a"},{"title":"5G发展与汽车自动驾驶的理解","urlAudio":"https://fdfs.xmcdn.com/group66/M06/2E/3B/wKgMdV1hPX7jHnPDAEQGaKkh8VE755.m4a"}]

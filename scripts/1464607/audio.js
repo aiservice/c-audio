@@ -1,0 +1,1 @@
+var audioList=[{"title":"像树一样活着","urlAudio":"https://fdfs.xmcdn.com/group65/M00/A1/78/wKgMdF1pLIuA9NGUAApiGlRogdI864.m4a"},{"title":"河","urlAudio":"https://fdfs.xmcdn.com/group64/M03/A2/4F/wKgMaV1pLrLyAQ5xAAkR1CnptWA985.m4a"},{"title":"烟雨蒙蒙","urlAudio":"https://fdfs.xmcdn.com/group77/M03/CE/40/wKgO3151-yDTbaJ0AAR1uG9E3PI470.m4a"}]

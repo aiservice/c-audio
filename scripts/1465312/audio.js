@@ -1,0 +1,1 @@
+var audioList=[{"title":"我去帮帮你","urlAudio":"https://fdfs.xmcdn.com/group75/M01/44/39/wKgO3V5LUP-TzA3RAD0CLt1tkUI428.m4a"},{"title":"我想看看你","urlAudio":"https://fdfs.xmcdn.com/group77/M06/52/AC/wKgO1V5LUWrz7byFADTNFZ6n58E495.m4a"},{"title":"我要抱抱你","urlAudio":"https://fdfs.xmcdn.com/group76/M03/48/AB/wKgO1F5LUafjzTgCAEuOeGqRToo335.m4a"}]

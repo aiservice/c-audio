@@ -1,0 +1,1 @@
+var audioList=[{"title":"000女性心理结构形式上","urlAudio":"https://fdfs.xmcdn.com/group77/M03/F0/EF/wKgO3154hF-yvqLqAT2O3H6KhBU787.m4a"},{"title":"000女性心理结构形式下","urlAudio":"https://fdfs.xmcdn.com/group74/M01/F9/67/wKgO0l54hIHAY3ATASolEoooi24090.m4a"}]

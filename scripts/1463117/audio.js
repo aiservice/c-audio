@@ -1,0 +1,1 @@
+var audioList=[{"title":"楔子","urlAudio":"https://fdfs.xmcdn.com/group77/M0A/CB/4B/wKgO31510I3S9yFBACI2V9tID2I103.m4a"},{"title":"第一章 神秘客 第1部分","urlAudio":"https://fdfs.xmcdn.com/group78/M0A/DA/0E/wKgO1l52AgbA7PNcAFvP50hW8t4191.m4a"},{"title":"第一章 神秘客 第2部分","urlAudio":"https://fdfs.xmcdn.com/group75/M06/E4/E0/wKgO0153KS3x7T9NAEjV__lmIY4798.m4a"}]

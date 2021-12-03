@@ -1,0 +1,1 @@
+var audioList=[{"title":"北美准备","urlAudio":"https://fdfs.xmcdn.com/group77/M02/72/C5/wKgO1V5vEEGyp-O0ADk4hSVUlqk852.m4a"},{"title":"香港","urlAudio":"https://fdfs.xmcdn.com/group74/M0B/69/42/wKgO0l5vEgSyg6SsAC85VbX8J8M237.m4a"},{"title":"香港到多伦多要飞15个小时","urlAudio":"https://fdfs.xmcdn.com/group78/M05/7D/37/wKgO1l5wOAbQT0bjAD7kGjA2ooE927.m4a"}]

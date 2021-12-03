@@ -1,0 +1,1 @@
+var audioList=[{"title":"党员、公务员、事业单位人员能否从事营利性活动或兼职取酬","urlAudio":"https://fdfs.xmcdn.com/group73/M01/D1/89/wKgO0V51n6-AfFWgAB846HcLW5A293.m4a"},{"title":"什么是约谈","urlAudio":"https://fdfs.xmcdn.com/group76/M05/5F/60/wKgO1F5eCb-jx_8vAA0HDUKoEVQ020.m4a"}]

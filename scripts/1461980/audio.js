@@ -1,0 +1,1 @@
+var audioList=[{"title":"银行放的贷款那么多，市场还到处缺钱，那么钱到底去哪里了？","urlAudio":"https://fdfs.xmcdn.com/group45/M00/A2/CB/wKgKlFtYoB3hDOHUABQccBKRztI764.m4a"},{"title":"一场大风暴向地产行业袭来，我似乎又看到几年一个周期的地产宿命","urlAudio":"https://fdfs.xmcdn.com/group45/M00/A6/DB/wKgKlFtZKjXQkVZaABrBw8ldWVU262.m4a"}]

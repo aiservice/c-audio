@@ -1,0 +1,1 @@
+var audioList=[{"title":"星期，季节，月份","urlAudio":"https://fdfs.xmcdn.com/group78/M01/48/15/wKgO1l5b9NGhzK3lAA2MrS2-bwA175.m4a"},{"title":"Die Vier Jahreszeiten 四个季节","urlAudio":"https://fdfs.xmcdn.com/group77/M08/4D/4B/wKgO315dScex4P-OAASivKJRVRA677.m4a"},{"title":"die Stadien 成长阶段","urlAudio":"https://fdfs.xmcdn.com/group74/M09/6C/B6/wKgO0l5vPz-hwiYCAAQkcWmvqMM660.m4a"}]

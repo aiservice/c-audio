@@ -1,0 +1,1 @@
+var audioList=[{"title":"每日读书打卡第5天 论语第五篇 公治长","urlAudio":"https://fdfs.xmcdn.com/group74/M05/EC/8C/wKgO3F54THyDU5QTAQqmxg1JF2w150.m4a"},{"title":"每日读书打卡第6天 论语第六篇 雍也","urlAudio":"https://fdfs.xmcdn.com/group73/M0B/03/F0/wKgO2155tYuSqI4IAkhuGw5oIVo757.m4a"}]

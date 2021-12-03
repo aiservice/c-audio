@@ -1,0 +1,1 @@
+var audioList=[{"title":"同一个世界同一个HR","urlAudio":"https://fdfs.xmcdn.com/group58/M07/4F/48/wKgLgl3ze0KyfPTCAAULM2aAnsg249.m4a"},{"title":"面朝大海，春暖花开","urlAudio":"https://fdfs.xmcdn.com/group77/M04/E4/72/wKgO3153fXPS5uFhAAiOW5JLAwE212.m4a"}]

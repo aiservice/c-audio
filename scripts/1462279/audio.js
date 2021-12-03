@@ -1,0 +1,1 @@
+var audioList=[{"title":"为什么选择阿里巴巴淘小铺","urlAudio":"https://fdfs.xmcdn.com/group76/M03/96/80/wKgO3l5x7xWiG63uADWmnMNeZBQ839.m4a"},{"title":"新人如何快速成交","urlAudio":"https://fdfs.xmcdn.com/group76/M0B/FA/F7/wKgO1F54hJ6iQ-QAAGkIYzlkdZQ552.m4a"}]

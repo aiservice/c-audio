@@ -1,0 +1,1 @@
+var audioList=[{"title":"错误","urlAudio":"https://fdfs.xmcdn.com/group72/M07/5C/49/wKgO0F42RC6ggMX_AAT8ZGh-P_s714.m4a"},{"title":"那一天，那一月，那一年，那一世","urlAudio":"https://fdfs.xmcdn.com/group72/M08/5C/5F/wKgO0F42RJmj5ac-AAYiOQAlD7Y576.m4a"},{"title":"阳光中的向日葵","urlAudio":"https://fdfs.xmcdn.com/group72/M02/5C/9C/wKgO0F42RUXDdtc0AAd4I0G5pR8511.m4a"}]

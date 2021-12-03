@@ -1,0 +1,1 @@
+var audioList=[{"title":"习近平同志“民生观”经典语录（三）","urlAudio":"https://fdfs.xmcdn.com/group28/M05/02/F8/wKgJSFlQ_jnQsfyCAD1BtGzyyq4785.m4a"},{"title":"习近平同志“民生观”经典语录（二）","urlAudio":"https://fdfs.xmcdn.com/group29/M07/01/5C/wKgJXVlQ_eDxMCyfACNjEExEbqU170.m4a"},{"title":"习近平同志“民生观”经典语录（一）","urlAudio":"https://fdfs.xmcdn.com/group28/M01/04/8A/wKgJXFlQ_MCRfh8pAEo51e_S6PM448.m4a"}]

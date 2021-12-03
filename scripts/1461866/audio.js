@@ -1,0 +1,1 @@
+var audioList=[{"title":"蝴蝶脚办公桌模型入库说明","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/81/C7/wKgO1l5OdefQUXXrAMA-1Uebtlo734.m4a"},{"title":"CAD26个字母快捷键","urlAudio":"https://fdfs.xmcdn.com/group74/M04/AA/E0/wKgO0l5iVRvTwup-ABrcVjsFtLg744.m4a"},{"title":"屏风卡座如何建模绘图快","urlAudio":"https://fdfs.xmcdn.com/group73/M04/B4/88/wKgO0V5zfubjwLdiADJ_owFLBgs535.m4a"}]

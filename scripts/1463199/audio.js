@@ -1,0 +1,1 @@
+var audioList=[{"title":"《海贼王》评书第1场：年仅7岁的路飞为什么就想到当海贼？","urlAudio":"https://fdfs.xmcdn.com/group73/M09/4D/69/wKgO0V5s6paCgc-8AD-k5aj8BWE267.m4a"},{"title":"《海贼王》评书第2场：名场面之四皇红发香克斯，曾被一山贼王泼酒水","urlAudio":"https://fdfs.xmcdn.com/group73/M05/C6/B1/wKgO0V50u7uwQnG5AChJR4Rj_nQ163.m4a"}]

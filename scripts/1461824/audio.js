@@ -1,0 +1,1 @@
+var audioList=[{"title":"word如何设置栏","urlAudio":"https://fdfs.xmcdn.com/group71/M07/EE/BC/wKgOz14ymr_xANxBAAbHaxq2KEY775.m4a"},{"title":"word┃如何设置栏（视频）","urlAudio":"https://fdfs.xmcdn.com/group71/M03/0D/C6/wKgOz140BELjnTSUAAa1XERcg5s004.m4a"}]

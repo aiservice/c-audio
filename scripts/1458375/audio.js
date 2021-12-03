@@ -1,0 +1,1 @@
+var audioList=[{"title":"霸王别姬：张国荣经典台词","urlAudio":"https://fdfs.xmcdn.com/group69/M03/CF/3D/wKgMeV3TYVfRYMuPAAFEwiWq_iQ275.m4a"},{"title":"我微笑着走向生活","urlAudio":"https://fdfs.xmcdn.com/group69/M04/D1/CD/wKgMb13Tjp6zZOHdAAVmCKfvf-A923.m4a"}]

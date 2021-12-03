@@ -1,0 +1,1 @@
+var audioList=[{"title":"留学篇01 欢迎来到大纽村！","urlAudio":"https://fdfs.xmcdn.com/group63/M09/31/69/wKgMcl0qegHiISc2AGCPqu5GF_Y684.m4a"},{"title":"留学篇02·迷人的美食","urlAudio":"https://fdfs.xmcdn.com/group64/M08/C2/31/wKgMc12OvlzBADLTAFAVDfx5xsU134.m4a"},{"title":"03 在那山的那边有一座谢菲尔德","urlAudio":"https://fdfs.xmcdn.com/group78/M05/FB/79/wKgO1l54erXQD351AHI_Udb6X3E942.m4a"}]

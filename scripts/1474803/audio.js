@@ -1,0 +1,1 @@
+var audioList=[{"title":"写给母亲","urlAudio":"https://fdfs.xmcdn.com/group43/M06/C5/0B/wKgKklr259ShnciDACffYOjMiyc040.m4a"},{"title":"30岁前","urlAudio":"https://fdfs.xmcdn.com/group44/M04/C6/DE/wKgKkVr26Rnz4gKQACKfxJiZbvc868.m4a"},{"title":"夏季的雪——独库公路","urlAudio":"https://fdfs.xmcdn.com/group43/M05/16/CE/wKgKjVr5tUCAIgCKAFLFzX0aBik382.m4a"}]

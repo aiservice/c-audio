@@ -1,0 +1,1 @@
+var audioList=[{"title":"【有声漫画·伊藤润二】阁楼的长发","urlAudio":"https://fdfs.xmcdn.com/group75/M07/2F/64/wKgO015acaiSJcQ8AEvVsZQd5A4206.m4a"},{"title":"【有声漫画·伊藤润二】富江·上集","urlAudio":"https://fdfs.xmcdn.com/group76/M0B/2B/AD/wKgO3l5acezjKFFtAEQw_vUU5II266.m4a"},{"title":"【有声漫画·伊藤润二】富江·下集","urlAudio":"https://fdfs.xmcdn.com/group75/M04/26/1B/wKgO3V5acnigxYheAC_uiWwFreU123.m4a"}]

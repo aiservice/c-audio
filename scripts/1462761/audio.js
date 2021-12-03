@@ -1,0 +1,1 @@
+var audioList=[{"title":"大树视角看世界，来听听安倍的禅意！","urlAudio":"https://fdfs.xmcdn.com/group46/M01/CD/7A/wKgKlluUalOzt3LOAB1Ip85ryHA337.m4a"},{"title":"大树视角看世界，一起聊聊“富不过三代”这个话题","urlAudio":"https://fdfs.xmcdn.com/group47/M0A/F6/63/wKgKm1uUeY_RWV9_AFDokVHznmc891.m4a"},{"title":"世界很大","urlAudio":"https://fdfs.xmcdn.com/group51/M01/6B/39/wKgKmlvMfTTDSok1AAVx2Hh0H_Y771.m4a"}]

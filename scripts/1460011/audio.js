@@ -1,0 +1,1 @@
+var audioList=[{"title":"顶级信贷销冠实战课（一）","urlAudio":"https://fdfs.xmcdn.com/group64/M02/EC/FF/wKgMaV1vLJ7zDBPLAKa5xCKfB9I527.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"地产金融系列之一：地产私募基金产品设计及备案实操要点","urlAudio":"https://fdfs.xmcdn.com/group61/M0B/EC/10/wKgMcF34fuvBHlwZAJahVec561s281.m4a"}]

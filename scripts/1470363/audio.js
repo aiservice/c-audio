@@ -1,0 +1,1 @@
+var audioList=[{"title":"灿烈&Wendy——Stay with me","urlAudio":"https://fdfs.xmcdn.com/group72/M0B/65/55/wKgO0F47pBOBp9ndABFS6U0-eo8408.m4a"},{"title":"灿烈、韶宥—Stay with me","urlAudio":"https://fdfs.xmcdn.com/group71/M05/C9/B8/wKgO2V47pEaSOQiHABFWzxp-GHQ585.m4a"},{"title":"灿烈·、雪娥——Stay with me","urlAudio":"https://fdfs.xmcdn.com/group72/M05/65/6D/wKgO0F47pHfimmtmABf_KgCsbTk753.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"财哥哥教会你白手起家（之1）","urlAudio":"https://fdfs.xmcdn.com/group18/M00/3F/8A/wKgJJVfsd77ShYOLADsK4QMMlcg968.m4a"},{"title":"财哥哥教会你白手起家（之2）","urlAudio":"https://fdfs.xmcdn.com/group19/M08/40/22/wKgJK1fsfXqik9dMADoUMqkaZls973.m4a"},{"title":"财哥哥教会你白手起家（之3）","urlAudio":"https://fdfs.xmcdn.com/group20/M0B/3E/83/wKgJLFfsfYrTx1YtADTqm34QuE0806.m4a"}]

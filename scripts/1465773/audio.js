@@ -1,0 +1,1 @@
+var audioList=[{"title":"党政主要领导干部和国有企业领导人员经济责任审计规定实施细则","urlAudio":"https://fdfs.xmcdn.com/group22/M06/EB/22/wKgJM1jGBamj_zqqAROEI2sxpXM604.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"如果高三是人生最重要的一年，那大学毕不了业算啥","urlAudio":"https://fdfs.xmcdn.com/group72/M04/4B/47/wKgO0F4UiS6grSKFACSRgFByaBI160.m4a"},{"title":"上课睡觉的同学要不要叫醒呢？","urlAudio":"https://fdfs.xmcdn.com/group72/M04/09/F4/wKgO0F4bTynyto4yAIL47h0mseo541.m4a"},{"title":"名师网课上完，你就可以不用听学校老师的课吗？","urlAudio":"https://fdfs.xmcdn.com/group70/M0B/4F/2C/wKgOzl5AvvyTKUuYAEZqvy3iu8Q174.m4a"}]

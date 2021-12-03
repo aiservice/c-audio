@@ -1,0 +1,1 @@
+var audioList=[{"title":"高净值如何做到代代相传","urlAudio":"https://fdfs.xmcdn.com/group64/M05/E8/9E/wKgMc11uiF_DOo2fAAhHL-acFws015.m4a"},{"title":"资产配置规模的递进安排","urlAudio":"https://fdfs.xmcdn.com/group66/M0B/E9/26/wKgMa11uk9XD6a5GAAm5CNON1Ws852.m4a"}]

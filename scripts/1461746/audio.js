@@ -1,0 +1,1 @@
+var audioList=[{"title":"教育云平台","urlAudio":"https://fdfs.xmcdn.com/group43/M02/BB/02/wKgKjVr__sGBQsJSACtFxdE01vA051.m4a"}]

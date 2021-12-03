@@ -1,0 +1,1 @@
+var audioList=[{"title":"围棋布局口诀","urlAudio":"https://fdfs.xmcdn.com/group75/M04/D5/D4/wKgO015U15ewLyoGABF-9p6XWig790.m4a"},{"title":"《风》 唐 李峤","urlAudio":"https://fdfs.xmcdn.com/group76/M0B/E6/D2/wKgO1F5WOyDAJMiVAAIL8Vol0PU051.m4a"},{"title":"《清明》 唐 杜牧","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/FA/55/wKgO1l54bG3xpPx7AAI7uajTDco205.m4a"}]

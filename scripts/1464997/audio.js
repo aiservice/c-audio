@@ -1,0 +1,1 @@
+var audioList=[{"title":"微形象该如何打造？","urlAudio":"https://fdfs.xmcdn.com/group70/M05/88/4E/wKgOzl4Iwdqg9XcPABqlsF-4jJE779.m4a"},{"title":"如何拥有老板的思维去做生意？","urlAudio":"https://fdfs.xmcdn.com/group71/M0A/0E/8A/wKgO2V4S35uhaMX6ADzfQ1eLN0M121.m4a"},{"title":"决定微商成败的这些重要因素","urlAudio":"https://fdfs.xmcdn.com/group71/M09/26/AB/wKgOz14UcmbzsakZAC97W_aIYSk629.m4a"}]

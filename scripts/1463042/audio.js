@@ -1,0 +1,1 @@
+var audioList=[{"title":"战斗机在市区上空发生故障该不该跳伞？","urlAudio":"https://fdfs.xmcdn.com/group61/M05/CC/60/wKgMZl02Z-aziwQaABbXirnrhjs895.m4a"},{"title":"为什么如此先进的“全球鹰”无人机也会被击落？","urlAudio":"https://fdfs.xmcdn.com/group63/M04/DC/35/wKgMcl03uniAJIwXABQB7jhUhSs734.m4a"}]

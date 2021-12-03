@@ -1,0 +1,1 @@
+var audioList=[{"title":"史宾塞睡着了","urlAudio":"https://fdfs.xmcdn.com/group77/M0A/A9/38/wKgO315Sjm7gNcX4AByLqgMtK50895.m4a"},{"title":"一百岁的史卡洛","urlAudio":"https://fdfs.xmcdn.com/group77/M03/B4/72/wKgO315jsv-y-FNDABr07hvAtGU923.m4a"},{"title":"t铁路管家胖总管","urlAudio":"https://fdfs.xmcdn.com/group78/M03/BF/A5/wKgO4F51ltmwzejLAB4Pdbt_TBI138.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"2019投资理财，请考虑“素颜”产品 （上）","urlAudio":"https://fdfs.xmcdn.com/group55/M0A/52/73/wKgLf1xTsI6RQFmWAB3MwxyYrmw786.m4a"},{"title":"2019投资理财，请考虑“素颜”产品（下）","urlAudio":"https://fdfs.xmcdn.com/group57/M06/52/A8/wKgLgVxTsffyZDOCAEXQjk3R-qA383.m4a"}]

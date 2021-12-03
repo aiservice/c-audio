@@ -1,0 +1,1 @@
+var audioList=[{"title":"消费～来自视觉传达设计","urlAudio":"https://fdfs.xmcdn.com/group70/M00/DE/F6/wKgOzl5Fa1WyDMkUAAsYhwJWRnU231.m4a"},{"title":"photoshop设计软件","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/13/63/wKgO0l5Gr_WTiKzvACBjBngfdjw361.m4a"},{"title":"位图 矢量图","urlAudio":"https://fdfs.xmcdn.com/group78/M02/05/FC/wKgO4F5GtSmBC9OPACwpt6Lh46c186.m4a"}]

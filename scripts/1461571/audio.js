@@ -1,0 +1,1 @@
+var audioList=[{"title":"星际帝国天军","urlAudio":"https://fdfs.xmcdn.com/group72/M08/EA/46/wKgO0F4aehTi1QX4AC39XoilMM4492.m4a"},{"title":"天军母舰","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/AC/EB/wKgO3F5ShwvQKMbzABpwQeyN9RE091.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"来了解一下资产证券化（ABS）吧","urlAudio":"https://fdfs.xmcdn.com/group32/M01/67/BC/wKgJS1ogF2PCA93DAC6kIc7XeXA443.m4a"}]

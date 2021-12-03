@@ -1,0 +1,1 @@
+var audioList=[{"title":"资深专家带您入门涉外商标","urlAudio":"https://fdfs.xmcdn.com/group77/M05/E3/FA/wKgO315Wd7-A6WXXAAiM9mX8WjU319.m4a"},{"title":"What is WIPO","urlAudio":"https://fdfs.xmcdn.com/group77/M08/FE/D3/wKgO1V5XOGmwxvxpABECJ_cixIU817.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"3月16日闻旅纵览语音播报","urlAudio":"https://fdfs.xmcdn.com/group75/M02/5F/4A/wKgO3V5vIeaQd77mAFPX0gWtMqY058.m4a"},{"title":"3月19日闻旅纵览语音播报","urlAudio":"https://fdfs.xmcdn.com/group77/M02/AC/1E/wKgO315zf5CAuoErAGYCoBVlD1Q681.m4a"},{"title":"3月23日闻旅纵览语音播报","urlAudio":"https://fdfs.xmcdn.com/group75/M02/EB/7A/wKgO3V54VaCjz07lAFQYYDhP4EM707.m4a"}]

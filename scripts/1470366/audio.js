@@ -1,0 +1,1 @@
+var audioList=[{"title":"一对对鸳鸯水上漂（吕峰）","urlAudio":"https://fdfs.xmcdn.com/group74/M0B/6B/C4/wKgO3F5ODH_QCqwAACW91UkQiH4388.m4a"},{"title":"羊肚肚手巾三道道蓝（吕峰）","urlAudio":"https://fdfs.xmcdn.com/group74/M03/6B/B9/wKgO3F5OC9DQDS1YABE0E5JA4Ok549.m4a"},{"title":"孝敬哇 亲亲们（吕峰）","urlAudio":"https://fdfs.xmcdn.com/group75/M00/6C/20/wKgO3V5OC_fwWx7VACNenNE3Qtw469.m4a"}]

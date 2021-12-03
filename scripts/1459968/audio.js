@@ -1,0 +1,1 @@
+var audioList=[{"title":"朱琳：一篇看懂年金险","urlAudio":"https://fdfs.xmcdn.com/group74/M01/4E/23/wKgO3F5tzGXAWtMaACd6JBbzRGo297.m4a"},{"title":"朱琳：年金险里的几个概念","urlAudio":"https://fdfs.xmcdn.com/group74/M06/9F/EA/wKgO3F5y-32jCxP3ABzauxIHvdg245.m4a"},{"title":"朱琳：选择年金险要注意的几个要点","urlAudio":"https://fdfs.xmcdn.com/group73/M07/F4/61/wKgO0V54M3-AELn8ACWzTfFvjU4307.m4a"}]

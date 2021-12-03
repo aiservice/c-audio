@@ -1,0 +1,1 @@
+var audioList=[{"title":"《宇宙进化史》前言（上）","urlAudio":"https://fdfs.xmcdn.com/group55/M06/40/9C/wKgLf1yrJl7woFiGANW7Xsk_6PI142.m4a"},{"title":"作文","urlAudio":"https://fdfs.xmcdn.com/group62/M03/A3/C1/wKgMcV0l1njwCW2xAAUFIKJWtdI137.m4a"},{"title":"英语","urlAudio":"https://fdfs.xmcdn.com/group63/M03/6D/43/wKgMaF0u9TXSgEKOAAyHGW36Dxo166.m4a"}]

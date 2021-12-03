@@ -1,0 +1,1 @@
+var audioList=[{"title":"打招呼","urlAudio":"https://fdfs.xmcdn.com/group70/M03/CA/AF/wKgOzl47n2yCrwrFAAFNk02_WUY415.m4a"}]

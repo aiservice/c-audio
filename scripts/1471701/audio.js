@@ -1,0 +1,1 @@
+var audioList=[{"title":"陷入危机的地地/万圣节的夜晚","urlAudio":"https://fdfs.xmcdn.com/group76/M0A/D0/BD/wKgO1F5U0LrCxRLzAG8qgDO1AJ0050.m4a"},{"title":"“江之电”的汽笛声/来自深海的sos","urlAudio":"https://fdfs.xmcdn.com/group77/M08/C8/3B/wKgO315U1U_jCmb-AGdUoawFYY8662.m4a"},{"title":"怪兽比佐摩来袭","urlAudio":"https://fdfs.xmcdn.com/group77/M0A/2A/D4/wKgO1V5Z-BLhcPVJADPPI17yVVs628.m4a"}]

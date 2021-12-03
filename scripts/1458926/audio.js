@@ -1,0 +1,1 @@
+var audioList=[{"title":"【春】咏柳","urlAudio":"https://fdfs.xmcdn.com/group77/M08/7A/CE/wKgO1V5fIXOjbwLuAAPTXIcn428951.m4a"},{"title":"【春】村居","urlAudio":"https://fdfs.xmcdn.com/group76/M00/F4/C1/wKgO3l54OA2RGIXPAAQvyQvY_dA344.m4a"},{"title":"绝句","urlAudio":"https://fdfs.xmcdn.com/group76/M06/0D/B7/wKgO3l55srTSXqRDAAMH1_QdrBY886.m4a"}]

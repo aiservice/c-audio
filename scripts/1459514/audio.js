@@ -1,0 +1,1 @@
+var audioList=[{"title":"1.面对市场的暴涨暴跌，该如何应对？","urlAudio":"https://fdfs.xmcdn.com/group78/M02/FB/A5/wKgO1l54fVXyqpBfADizD5VOjiQ584.m4a"},{"title":"2.低买高卖和摸顶猜底的区别","urlAudio":"https://fdfs.xmcdn.com/group78/M02/E8/5D/wKgO4F54fVSRnB7kADexlbm6qXo431.m4a"},{"title":"3.如何在不影响胜率和盈亏比的平衡下，来优化交易系统？","urlAudio":"https://fdfs.xmcdn.com/group78/M02/E8/5D/wKgO4F54fVSADOAzAE146yBfZ2k545.m4a"}]

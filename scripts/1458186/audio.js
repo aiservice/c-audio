@@ -1,0 +1,1 @@
+var audioList=[{"title":"【李老师说古琴】——细品《古琴丛谈》01","urlAudio":"https://fdfs.xmcdn.com/group75/M06/89/18/wKgO3V5xtAnDI6x2ADkD58zEsSM247.m4a"},{"title":"【李老师说古琴】——《古琴丛谈》 02-四大名琴","urlAudio":"https://fdfs.xmcdn.com/group75/M05/F3/E2/wKgO0154RmPw35t-ADbpLAsVI4k634.m4a"}]

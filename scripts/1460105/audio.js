@@ -1,0 +1,1 @@
+var audioList=[{"title":"导读","urlAudio":"https://fdfs.xmcdn.com/group63/M03/87/D5/wKgMcl0dKR6C_xdQABTsXGq1f1c246.m4a"},{"title":"国外-全球货币政策周期一致么？","urlAudio":"https://fdfs.xmcdn.com/group63/M05/87/E8/wKgMcl0dK_7CwAi0AFKCDwf6Fjk917.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"1.La scienza della deduzione No.1","urlAudio":"https://fdfs.xmcdn.com/group77/M01/E7/A5/wKgO3154COigWgfKABQuT0cRi_4399.m4a"},{"title":"1.La scienza della deduzione No.2","urlAudio":"https://fdfs.xmcdn.com/group74/M08/05/74/wKgO0l55WxzQmZX4ABQqFfIeZLg571.m4a"}]

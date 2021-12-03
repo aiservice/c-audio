@@ -1,0 +1,1 @@
+var audioList=[{"title":"关于进一步规范党政领导干部在企业兼职（任职）问题的意见（节选）","urlAudio":"https://fdfs.xmcdn.com/group24/M06/E1/75/wKgJNVjCisfxwuNJAC-7IZvxprA627.m4a"}]

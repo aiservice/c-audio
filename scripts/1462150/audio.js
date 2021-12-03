@@ -1,0 +1,1 @@
+var audioList=[{"title":"什么是舰载机？","urlAudio":"https://fdfs.xmcdn.com/group74/M08/05/0B/wKgO3F5Yjf_zZVMoAAhyS0-6Vho856.m4a"},{"title":"什么是布雷舰？","urlAudio":"https://fdfs.xmcdn.com/group76/M0B/1F/6E/wKgO1F5Z5ErjuyVZAAgugEIX7zI248.m4a"},{"title":"鹞式战斗机为什么能垂直起降？","urlAudio":"https://fdfs.xmcdn.com/group76/M0A/1F/66/wKgO3l5Z5RzRfF0yAAytsdXgvNo417.m4a"}]

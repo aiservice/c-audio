@@ -1,0 +1,1 @@
+var audioList=[{"title":"神仙星座巨蟹座，我不允许还有人不知道！","urlAudio":"https://fdfs.xmcdn.com/group78/M07/E3/0B/wKgO1l5VRPPBFdHGAAgp0G1DKwA662.m4a"},{"title":"神仙巨蟹座，依然逃不过爱情这个大坑","urlAudio":"https://fdfs.xmcdn.com/group76/M03/DB/9E/wKgO1F5VR0ehOL_BAAhCyFWDNDA458.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"招商银行大额抵押经营贷（北京版）产品概述和申请要点详解","urlAudio":"https://fdfs.xmcdn.com/group61/M07/DE/91/wKgMcF3zoSWR4-gkACxP52-xEXA684.m4a"},{"title":"招商银行大额抵押贷北京版申请秘籍-含进件地址和客户经理微信","urlAudio":"https://fdfs.xmcdn.com/group71/M01/A0/D6/wKgO2V4K3u-Aw76-AD15dfVMgqE324.m4a"}]

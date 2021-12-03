@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一章 2002年：强弩之末","urlAudio":"https://fdfs.xmcdn.com/group64/M02/2D/93/wKgMc12XV0aRNRGbAEgI2Df41Qg866.m4a"},{"title":"第二章 2003年：利率起步回升之年","urlAudio":"https://fdfs.xmcdn.com/group66/M04/2D/64/wKgMa12XZIPBl5a9ASEzx3fw_9s617.m4a"}]

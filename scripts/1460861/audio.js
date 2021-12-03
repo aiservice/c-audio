@@ -1,0 +1,1 @@
+var audioList=[{"title":"【直播回听】第一章","urlAudio":"https://fdfs.xmcdn.com/group75/M08/74/90/wKgO3V5wbkKipjWTAdRFYJkE2K8811.m4a"},{"title":"【直播回听】第二章","urlAudio":"https://fdfs.xmcdn.com/group78/M0A/E4/2E/wKgO1l523o7g3SzwAcA2QdC-sA8283.m4a"},{"title":"【直播回听】第三章","urlAudio":"https://fdfs.xmcdn.com/group76/M05/FA/88/wKgO1F54frrxKHHrAbp_sMUfb9g066.m4a"}]

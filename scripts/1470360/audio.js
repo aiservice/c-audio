@@ -1,0 +1,1 @@
+var audioList=[{"title":"普贤行愿品","urlAudio":"https://fdfs.xmcdn.com/group72/M05/2E/83/wKgO0F41KiWzOVpgAD2GrFUF_DA853.m4a"},{"title":"般禅梵唱妙音组-断瘟咒","urlAudio":"https://fdfs.xmcdn.com/group72/M01/2F/27/wKgO0F41LJjAYDK1AMtjT_z94Gc896.m4a"},{"title":"佛教音乐-禅院钟声(古筝)-佛曲","urlAudio":"https://fdfs.xmcdn.com/group72/M09/2F/CA/wKgO0F41L2PxXwq-ADB9GMRZCXs540.m4a"}]

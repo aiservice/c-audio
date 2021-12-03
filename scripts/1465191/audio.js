@@ -1,0 +1,1 @@
+var audioList=[{"title":"魔法师 （第一集）","urlAudio":"https://fdfs.xmcdn.com/group78/M03/5C/1B/wKgO4F5vSwuzflnsAKRca9Zr4RQ167.m4a"},{"title":"罗丹经典音乐剧：魔法师 （第一集）电台版","urlAudio":"https://fdfs.xmcdn.com/group47/M0A/BA/5E/wKgKk1ttP0Kj-Vx9AO-5G4fofGs177.m4a"}]

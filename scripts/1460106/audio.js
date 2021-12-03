@@ -1,0 +1,1 @@
+var audioList=[{"title":"我想和你虚度时光","urlAudio":"https://fdfs.xmcdn.com/group59/M01/C6/DF/wKgLelzqp3jSAQ_kABJdEFgTDrU002.m4a"},{"title":"情书","urlAudio":"https://fdfs.xmcdn.com/group60/M02/C4/96/wKgLb1zqqHWRSK2vAA123ZPJ9VM003.m4a"},{"title":"当你老了","urlAudio":"https://fdfs.xmcdn.com/group60/M0A/C5/05/wKgLeVzqqUazXALcAAp46e0_LEQ364.m4a"}]

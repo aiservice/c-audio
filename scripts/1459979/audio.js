@@ -1,0 +1,1 @@
+var audioList=[{"title":"3.2.1保险合同的主体","urlAudio":"https://fdfs.xmcdn.com/group77/M07/F1/61/wKgO1V53OsmQH_dwAFJi2MX5jrc709.m4a"}]

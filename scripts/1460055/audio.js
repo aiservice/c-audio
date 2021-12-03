@@ -1,0 +1,1 @@
+var audioList=[{"title":"不良资产尽调的现场关注点","urlAudio":"https://fdfs.xmcdn.com/group71/M09/33/DB/wKgOz14VeYzDKGLbAIrggo8uL-o924.m4a"},{"title":"投资人如何对不良资产包进行尽调及处置","urlAudio":"https://fdfs.xmcdn.com/group71/M06/34/D0/wKgOz14VjNOiCFl6Abzp6S3_ids684.m4a"},{"title":"不良资产尽调保证与抵押担保","urlAudio":"https://fdfs.xmcdn.com/group70/M07/BF/4B/wKgO2F4exIeDGnZiAcJXC4htNjY970.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"1.1找出恐惧的根源","urlAudio":"https://fdfs.xmcdn.com/group45/M02/C4/9B/wKgKlFtAzBry8dD4ADmUXULsu4E172.m4a"},{"title":"1.2培养自信心","urlAudio":"https://fdfs.xmcdn.com/group66/M09/C2/8C/wKgMdV199z2gUZYZADglRwxaOfA109.m4a"},{"title":"1.3让紧张感为我所用","urlAudio":"https://fdfs.xmcdn.com/group74/M07/F3/13/wKgO0l54LQqDvY2xADe5O7nW2Wk199.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"《闹喜》第一期","urlAudio":"https://fdfs.xmcdn.com/group63/M08/FD/8A/wKgMcl06UhfBp1eYAPcWicQrv2A518.m4a"},{"title":"《闹喜》第二期","urlAudio":"https://fdfs.xmcdn.com/group62/M01/FC/6C/wKgMZ106UuCQAZ8YAVReN05Qufk415.m4a"}]

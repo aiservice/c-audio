@@ -1,0 +1,1 @@
+var audioList=[{"title":"笛姐说数据01：什么是数据？什么是信息？","urlAudio":"https://fdfs.xmcdn.com/group75/M05/F3/CA/wKgO015WkWCw-9VIAB5N-Xcx02c350.m4a"},{"title":"笛姐说数据00：我为什么要做一个数据知识普及的音频课程？","urlAudio":"https://fdfs.xmcdn.com/group77/M04/E9/48/wKgO315XG5_zEHsIAByrRdTAbuQ459.m4a"}]

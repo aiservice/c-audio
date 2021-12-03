@@ -1,0 +1,1 @@
+var audioList=[{"title":"心怀天下范仲淹 3 从战场到官场","urlAudio":"https://fdfs.xmcdn.com/group10/M02/4B/11/wKgDZ1WvBCmixu8MASQZbFkXmGU170.m4a"},{"title":"心怀天下范仲淹 2 老子天下第一","urlAudio":"https://fdfs.xmcdn.com/group8/M09/1E/C9/wKgDYFV6EzOT20hjASIMKR_WhqY248.m4a"},{"title":"心怀天下范仲淹 1 拼命书生 大胆官员","urlAudio":"https://fdfs.xmcdn.com/group9/M03/45/CF/wKgDZlWnL3SwvEnYAR0rJZdxzg8907.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"第七十二副珠联璧合·第一期","urlAudio":"https://fdfs.xmcdn.com/group7/M07/24/3A/wKgDX1V_n9KQL8MxAG67pPqLaas929.m4a"},{"title":"第七十二副珠联璧合·第二期","urlAudio":"https://fdfs.xmcdn.com/group7/M09/3B/A7/wKgDX1Wb60aCYnMAAIUtXeLn4T8949.m4a"},{"title":"第七十二副珠联璧合·第四期","urlAudio":"https://fdfs.xmcdn.com/group10/M03/5D/3F/wKgDaVXOBMSBfRX-ATqrhzEyyvo148.m4a"}]

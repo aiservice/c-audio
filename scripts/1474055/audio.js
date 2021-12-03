@@ -1,0 +1,1 @@
+var audioList=[{"title":"珍爱自己催眠疗愈","urlAudio":"https://fdfs.xmcdn.com/group8/M06/28/75/wKgDYFWE4pzD5mUdADyDH7jbgvQ198.m4a"},{"title":"白光净化清理，提升身心免疫","urlAudio":"https://fdfs.xmcdn.com/group77/M05/74/64/wKgO315Or0nQW6cuAKxLyaIlNzk690.m4a"},{"title":"感冒自我催眠疗愈","urlAudio":"https://fdfs.xmcdn.com/group75/M0A/CF/E0/wKgO015Uiv3xzujDAMs2ergc5OQ105.m4a"}]

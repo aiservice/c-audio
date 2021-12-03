@@ -1,0 +1,1 @@
+var audioList=[{"title":"汽车微信客户营销录音1","urlAudio":"https://fdfs.xmcdn.com/group74/M05/55/CD/wKgO0l5dCPqjnU2BAHy-N0J_jnY299.m4a"},{"title":"汽车微信客户营销录音2","urlAudio":"https://fdfs.xmcdn.com/group75/M01/4C/75/wKgO3V5dCLvjZbptAKlcq48S7Gw296.m4a"},{"title":"汽车微信客户营销录音3","urlAudio":"https://fdfs.xmcdn.com/group76/M00/52/5C/wKgO1F5dCLWjHvepAJX3xh6PBKM830.m4a"}]

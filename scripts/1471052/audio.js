@@ -1,0 +1,1 @@
+var audioList=[{"title":"三生过后，世间再无张起灵","urlAudio":"https://fdfs.xmcdn.com/group75/M08/BF/B5/wKgO3V5T0jjwx1raAAk5ErmpjCA811.m4a"},{"title":"十年之约已到，我会一直等下去","urlAudio":"https://fdfs.xmcdn.com/group76/M06/C5/36/wKgO3l5T1e_SMaU3AATBrTvCJWU470.m4a"},{"title":"小哥从青铜门出来后","urlAudio":"https://fdfs.xmcdn.com/group75/M04/C0/4E/wKgO3V5T1yvwHABQAASQ3puZtqw947.m4a"}]

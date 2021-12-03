@@ -1,0 +1,1 @@
+var audioList=[{"title":"导论","urlAudio":"https://fdfs.xmcdn.com/group53/M07/2D/5E/wKgLcVw68ZnjCNUdAGDMgH3-qOQ278.m4a"},{"title":"导论2","urlAudio":"https://fdfs.xmcdn.com/group54/M06/2A/A4/wKgLfVw69viQ6TVmAI8bbkTJAlw817.m4a"}]

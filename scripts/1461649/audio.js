@@ -1,0 +1,1 @@
+var audioList=[{"title":"关于宇宙中t0-t8的文明与科技 1","urlAudio":"https://fdfs.xmcdn.com/group74/M09/13/51/wKgO3F5p5tXh5hDVAFgkMA2fO3A533.m4a"},{"title":"宇宙中T0-T8的文明与科技 Part 2","urlAudio":"https://fdfs.xmcdn.com/group75/M03/7F/93/wKgO015whTHyyJtUADVnawYG3bc866.m4a"},{"title":"关于宇宙中T0-T8的文明与科技Part 3","urlAudio":"https://fdfs.xmcdn.com/group76/M02/C2/81/wKgO1F50lGeBzWF6ADdkasuYkAQ900.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"深海捂耳朵","urlAudio":"https://audio.cos.xmcdn.com/group74/M03/FA/1C/wKgO3F5XsQXDkeKQAEl1Bc1SdZM462.m4a"},{"title":"芦荟胶与鹅毛球的组合","urlAudio":"https://aod.tx.xmcdn.com/group74/M04/03/3C/wKgO0l5XshnToKzdADtt18nngxs653.m4a"},{"title":"情景类助眠","urlAudio":"https://aod.tx.xmcdn.com/group75/M00/03/BB/wKgO015Xslyy9a0CADSPa2g6PeM311.m4a"}]

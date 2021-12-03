@@ -1,0 +1,1 @@
+var audioList=[{"title":"系列1《如何疏解消极情绪》","urlAudio":"https://fdfs.xmcdn.com/group78/M07/9F/52/wKgO1l5hsgWiYlRZAEzu68sX_0g632.m4a"},{"title":"系列2《焦虑，该怎么办》","urlAudio":"https://fdfs.xmcdn.com/group78/M01/4C/C7/wKgO4F5uKn2SgSAfAFb9CaG-ybg888.m4a"},{"title":"系列3《永葆希望，便得心安》","urlAudio":"https://fdfs.xmcdn.com/group77/M01/FD/4C/wKgO1V54Kgbiv81EAGfqHLggVzg700.m4a"}]

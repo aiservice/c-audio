@@ -1,0 +1,1 @@
+var audioList=[{"title":"1、好的旅行值得竭力寻找","urlAudio":"https://fdfs.xmcdn.com/group75/M09/2E/40/wKgO3V5rhlDCNorbAEO7DSBrEvg716.m4a"},{"title":"2、旅行充满未知的魅力","urlAudio":"https://fdfs.xmcdn.com/group78/M06/3C/CF/wKgO1l5rkVbB4YAyACYMINCBA7I301.m4a"},{"title":"3、旅行的灵魂清单","urlAudio":"https://fdfs.xmcdn.com/group75/M02/79/76/wKgO3V5wrYXAnDubAFKGLhXrwms853.m4a"}]

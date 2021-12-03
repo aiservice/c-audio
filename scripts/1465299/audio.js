@@ -1,0 +1,1 @@
+var audioList=[{"title":"广播剧《地雷战》原音","urlAudio":"https://fdfs.xmcdn.com/group75/M00/07/4D/wKgO3V5pAevAV9hFAh8O5ikQCn4233.m4a"},{"title":"63年小兵张嘎 高清版","urlAudio":"https://fdfs.xmcdn.com/group74/M01/18/E8/wKgO0l5puiTzbwfaAvUjO0d-oPM305.m4a"}]

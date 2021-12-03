@@ -1,0 +1,1 @@
+var audioList=[{"title":"试音《刀锋未凉》1 厮杀之夜","urlAudio":"https://fdfs.xmcdn.com/group75/M08/57/E1/wKgO015t8XmgQUVRAGDC4WLVCJE810.m4a"},{"title":"第二章 何去何从","urlAudio":"https://fdfs.xmcdn.com/group76/M03/9F/BE/wKgO1F5yPUbQ1JNZAHLSrNi9tWI618.m4a"}]

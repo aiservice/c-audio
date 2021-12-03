@@ -1,0 +1,1 @@
+var audioList=[{"title":"赋能占星现场解读分享","urlAudio":"https://fdfs.xmcdn.com/group75/M08/42/81/wKgO015sbwjTDR67AZwGXKS2hTY801.m4a"},{"title":"赋能占星之金星金牛座","urlAudio":"https://fdfs.xmcdn.com/group77/M00/3B/7D/wKgO315sgdfR5AhMALTf5rsL3gc112.m4a"},{"title":"赋能占星~春分星盘分享","urlAudio":"https://fdfs.xmcdn.com/group73/M05/15/34/wKgO0V56BxDSqrDyAQr7H-i7HcI670.m4a"}]

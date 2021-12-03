@@ -1,0 +1,1 @@
+var audioList=[{"title":"你了解芳香疗法吗？","urlAudio":"https://fdfs.xmcdn.com/group78/M08/77/6A/wKgO4F5gYgryBtY1ACZl1JgsYng584.m4a"},{"title":"精油提取方法","urlAudio":"https://fdfs.xmcdn.com/group75/M01/AE/84/wKgO3V5jYjCxHBDRABBns9osup8592.m4a"},{"title":"精油基础知识--精油、基础油、纯露","urlAudio":"https://fdfs.xmcdn.com/group76/M03/E2/8D/wKgO3l5mUEeCfpaKACoLNqwL0Ak128.m4a"}]

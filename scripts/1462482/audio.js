@@ -1,0 +1,1 @@
+var audioList=[{"title":"泰语杂粮","urlAudio":"https://fdfs.xmcdn.com/group71/M06/95/11/wKgOz15DaD2gNCRgABWgPLuw_dE017.m4a"},{"title":"对就是我欣赏的那7位","urlAudio":"https://fdfs.xmcdn.com/group77/M00/36/80/wKgO315byZGA_JaIABirTuzRkRQ063.m4a"},{"title":"这是什么什么鬼","urlAudio":"https://fdfs.xmcdn.com/group76/M01/B7/06/wKgO3l5jhfbRMzzeACGsaj1GADg799.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"《十二魂》系列之《子魂 华戏》","urlAudio":"https://fdfs.xmcdn.com/group53/M06/E6/D1/wKgLfFxPLTHCaexXAUisE04nCwg406.m4a"},{"title":"十二魂系列之丑魂 残妆","urlAudio":"https://fdfs.xmcdn.com/group66/M09/2A/4F/wKgMdV1OYPbQzvvpAQhvE60eqvo061.m4a"},{"title":"十二魂系列之寅魂 枕上居梦来（新剧奉上求订阅）","urlAudio":"https://fdfs.xmcdn.com/group75/M01/18/09/wKgO015pv8rAkw8gAOK_xZod96c304.m4a"}]

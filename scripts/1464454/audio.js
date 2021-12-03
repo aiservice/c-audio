@@ -1,0 +1,1 @@
+var audioList=[{"title":"录个自己的","urlAudio":"https://fdfs.xmcdn.com/group67/M07/2D/FF/wKgMbV3nPc2zzH6XAHMkH6u0fC0374.m4a"},{"title":"今天录制的","urlAudio":"https://fdfs.xmcdn.com/group74/M05/78/59/wKgO3F5OoU3iK38XAASwq-PmRYA400.m4a"},{"title":"电商商品销售分析1","urlAudio":"https://fdfs.xmcdn.com/group76/M08/EE/FD/wKgO1F53kPDg5Ns8ACClxxiA818096.m4a"}]

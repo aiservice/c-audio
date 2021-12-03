@@ -1,0 +1,1 @@
+var audioList=[{"title":"习近平表示完全赞同宪法修正案草案","urlAudio":"https://fdfs.xmcdn.com/group41/M02/4C/99/wKgJ8Vqg6PvzCf9WAAKa90PJnrU626.m4a"},{"title":"习近平：让人民群众在每一个司法案件中感受到公平正义","urlAudio":"https://fdfs.xmcdn.com/group41/M02/4C/99/wKgJ8Vqg6Przela4AAOWXeyOXRs220.m4a"}]

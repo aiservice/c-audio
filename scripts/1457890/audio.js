@@ -1,0 +1,1 @@
+var audioList=[{"title":"爱的序位～家庭系统排列—引言","urlAudio":"https://fdfs.xmcdn.com/group66/M0A/E8/5B/wKgMdV2Rkzax2dgpADffF_yJXow503.m4a"},{"title":"译者序","urlAudio":"https://fdfs.xmcdn.com/group74/M08/F3/07/wKgO0l54LGGBDc5FAFNn7iICZpw112.m4a"},{"title":"洞见 通过舍弃而获得（一）","urlAudio":"https://fdfs.xmcdn.com/group77/M06/04/15/wKgO1V54hdiTGaeOAF7uZep3yQ8072.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"李金鹏总结未来网企业联盟2019.9.11","urlAudio":"https://fdfs.xmcdn.com/group66/M08/73/C6/wKgMa114Yp6QkGXzAirhRQGSjdU347.m4a"},{"title":"尚老师总结北京会议精神2019.9.14","urlAudio":"https://fdfs.xmcdn.com/group66/M03/B4/07/wKgMdV184oLAaf4cAVQL-ru3ss0271.m4a"}]

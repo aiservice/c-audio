@@ -1,0 +1,1 @@
+var audioList=[{"title":"项目的整体管理","urlAudio":"https://fdfs.xmcdn.com/group72/M0A/3E/E3/wKgO0F4la3iSCSaPAGDpbSXVTBk850.m4a"},{"title":"项目的范围管理","urlAudio":"https://fdfs.xmcdn.com/group70/M04/2B/52/wKgO2F4lcaHyIr8wALOLtVFGSnE985.m4a"}]

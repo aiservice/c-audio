@@ -1,0 +1,1 @@
+var audioList=[{"title":"345七日回魂夜","urlAudio":"https://fdfs.xmcdn.com/group56/M09/A2/9C/wKgLgFx9UG_yfaYZAMj5yWkVeng599.m4a"},{"title":"【。】猪脑壳忘记本号了","urlAudio":"https://fdfs.xmcdn.com/group56/M04/FE/0D/wKgLgFyB-5zwDU8UAHkH_4m4pew999.m4a"},{"title":"36615 绝地大逃杀","urlAudio":"https://fdfs.xmcdn.com/group76/M07/01/E6/wKgO3l5og6nBjW6yAFuF5_WWGXk110.m4a"}]

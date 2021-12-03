@@ -1,0 +1,1 @@
+var audioList=[{"title":"研华IPC维修和维护","urlAudio":"https://fdfs.xmcdn.com/group75/M05/E8/02/wKgO015WEwXxGGMlAIjFKgHcUf4945.m4a"},{"title":"研华ARK产品及应用案例","urlAudio":"https://fdfs.xmcdn.com/group75/M08/00/E1/wKgO015XlceR97KKAK2cAAIrfqw873.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"交易杂谈之波浪理论精髓","urlAudio":"https://fdfs.xmcdn.com/group34/M03/B3/77/wKgJYFneRcmyNh2VAET32IlV6CY894.m4a"},{"title":"交易杂谈—外汇市场是一个公平的交易市场吗？","urlAudio":"https://fdfs.xmcdn.com/group34/M07/4C/4D/wKgJYFnbNfXijTdtADES_cCVpuM135.m4a"}]

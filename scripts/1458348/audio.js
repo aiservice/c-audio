@@ -1,0 +1,1 @@
+var audioList=[{"title":"葬花吟","urlAudio":"https://fdfs.xmcdn.com/group64/M01/7F/52/wKgMaV149TyC1XorADEhYzUxjYw814.m4a"},{"title":"好汉歌","urlAudio":"https://fdfs.xmcdn.com/group66/M05/7F/48/wKgMdV149XKCe2aWAA7odo2E7c0326.m4a"},{"title":"我的祖国","urlAudio":"https://fdfs.xmcdn.com/group64/M08/7F/72/wKgMc1149fuie8fAADYkoqnQ-fg307.m4a"}]

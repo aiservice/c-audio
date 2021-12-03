@@ -1,0 +1,1 @@
+var audioList=[{"title":"改变中国命运的遵义会议 1","urlAudio":"https://fdfs.xmcdn.com/group10/M05/2A/13/wKgDaVWGJQfxj8hkAS21Zn9RYhI829.m4a"},{"title":"改变中国命运的遵义会议 2","urlAudio":"https://fdfs.xmcdn.com/group13/M0B/3B/91/wKgDXVWcWE-C2oz3AS3yfpeySi8834.m4a"},{"title":"改变中国命运的遵义会议 3","urlAudio":"https://fdfs.xmcdn.com/group8/M02/51/74/wKgDYVW1XIrjuLZAAS2yPwYp2z4982.m4a"}]

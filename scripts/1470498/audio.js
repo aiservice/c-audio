@@ -1,0 +1,1 @@
+var audioList=[{"title":"happy tree friends 主题曲","urlAudio":"https://fdfs.xmcdn.com/group45/M06/73/30/wKgKjluL7M2Rmo6HAAONQBcF5oU989.m4a"},{"title":"Nothing To Fear","urlAudio":"https://fdfs.xmcdn.com/group46/M09/95/37/wKgKj1uP4byAkb8SABXiX-yT7Ac101.m4a"},{"title":"Go Time","urlAudio":"https://fdfs.xmcdn.com/group45/M0A/85/6D/wKgKjlufrr3ibBk0ABD5Y-HGF0E494.m4a"}]

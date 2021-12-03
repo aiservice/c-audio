@@ -1,0 +1,1 @@
+var audioList=[{"title":"【直播回听】专利法","urlAudio":"https://fdfs.xmcdn.com/group72/M02/20/A4/wKgO0F4TJk_D4w-rACoZFCf2HJs924.m4a"},{"title":"【直播回听】申请日的确定","urlAudio":"https://fdfs.xmcdn.com/group74/M08/E5/2E/wKgO3F53mAzT01uUAGytNWmBKiQ950.m4a"},{"title":"【直播回听】优先权","urlAudio":"https://fdfs.xmcdn.com/group78/M04/03/65/wKgO1l54wYTAlD1YAQFoQEG1evk485.m4a"}]

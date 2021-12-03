@@ -1,0 +1,1 @@
+var audioList=[{"title":"梁上有王妃 (1)","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/FA/53/wKgO1l54bGnRYRqyAEj42LDPr40996.m4a"},{"title":"梁上有王妃 (2)","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/E7/0B/wKgO4F54bGjxx2sdADXSkHJycpY557.m4a"},{"title":"梁上有王妃 (3)","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/FA/52/wKgO1l54bGfCnS53AC4ed1T7p_s509.m4a"}]

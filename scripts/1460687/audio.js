@@ -1,0 +1,1 @@
+var audioList=[{"title":"如果有来生","urlAudio":"https://fdfs.xmcdn.com/group56/M06/F8/23/wKgLdlyZwUSArChHABMOBEfot0w517.m4a"},{"title":"独一无二的人","urlAudio":"https://fdfs.xmcdn.com/group76/M00/CA/89/wKgO1F5040rxxV8eAAjOBSknqDE088.m4a"}]

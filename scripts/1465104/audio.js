@@ -1,0 +1,1 @@
+var audioList=[{"title":"出差一千里，好事做了一火车","urlAudio":"https://fdfs.xmcdn.com/group77/M02/AB/21/wKgO1V5iCx3zvFDDAByI_BQevTE248.m4a"},{"title":"热爱生命","urlAudio":"https://fdfs.xmcdn.com/group78/M01/CC/E3/wKgO1l5ktyiz2_1dAAbSHfQajSQ800.m4a"},{"title":"过去的无法改变，未来还可以努力","urlAudio":"https://fdfs.xmcdn.com/group75/M05/C0/ED/wKgO3V5kuC-xiCb9AAg5qpDlFgk791.m4a"}]

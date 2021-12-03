@@ -1,0 +1,1 @@
+var audioList=[{"title":"太乙救苦宝诰","urlAudio":"https://fdfs.xmcdn.com/group64/M09/49/16/wKgMc111FZDAaNuNAAf_PobHBA8965.m4a"},{"title":"观音宝诰","urlAudio":"https://fdfs.xmcdn.com/group72/M0B/CD/C6/wKgO0F4QPPOjsushAAcMcvrrcSM716.m4a"},{"title":"文昌帝君寶誥","urlAudio":"https://fdfs.xmcdn.com/group73/M07/C2/E5/wKgO215Ubx2DZK0ZAAmdV4CIJxU095.m4a"}]

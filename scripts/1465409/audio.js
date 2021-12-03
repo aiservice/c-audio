@@ -1,0 +1,1 @@
+var audioList=[{"title":"不一样的幽默","urlAudio":"https://fdfs.xmcdn.com/group73/M09/75/19/wKgO0V5fQjDAc5ReADJtpx6YKeA735.m4a"},{"title":"幽默故事之二（贪婪的国王）","urlAudio":"https://fdfs.xmcdn.com/group78/M08/7A/1B/wKgO1l5fS_fjHW7gADXRlc21xwQ534.m4a"}]

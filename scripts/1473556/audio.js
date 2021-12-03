@@ -1,0 +1,1 @@
+var audioList=[{"title":"FI_1组织架构","urlAudio":"https://fdfs.xmcdn.com/group78/M04/BB/81/wKgO4F5T57nT4oroAEw6ZLIuWIk890.m4a"},{"title":"FI_2总账会计","urlAudio":"https://fdfs.xmcdn.com/group76/M0A/C7/16/wKgO1F5T7VayRmMRARZ8qQe5RmQ608.m4a"},{"title":"FI_税金计算","urlAudio":"https://fdfs.xmcdn.com/group74/M03/3B/23/wKgO3F5b4kfTL7H9AH3PaYQyPXE229.m4a"}]

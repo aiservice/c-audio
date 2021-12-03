@@ -1,0 +1,1 @@
+var audioList=[{"title":"『具体问题具体分析』凯文老师谈学用毛主席之——31","urlAudio":"https://fdfs.xmcdn.com/group26/M07/3A/D6/wKgJWFrp90TB9GkwAEe23TSsMNY502.m4a"},{"title":"《实事求是》——韦凯文老师谈学用毛主席之30","urlAudio":"https://fdfs.xmcdn.com/group40/M04/A2/C0/wKgJVFrgomixq2WxADuvjHsuLgg733.m4a"}]

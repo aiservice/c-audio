@@ -1,0 +1,1 @@
+var audioList=[{"title":"竹林七贤1","urlAudio":"https://fdfs.xmcdn.com/group78/M00/F0/6F/wKgO1l53hwKBG01cAGZp66LMQ2s783.m4a"},{"title":"竹林七贤2","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/EA/17/wKgO4F54kfWjDyo8AIYOJhOubyk402.m4a"}]

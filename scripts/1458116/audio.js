@@ -1,0 +1,1 @@
+var audioList=[{"title":"恶搞的诗","urlAudio":"https://fdfs.xmcdn.com/group78/M00/85/3D/wKgO4F5g_1fBbqSgAA3vrwzDKHk571.m4a"}]

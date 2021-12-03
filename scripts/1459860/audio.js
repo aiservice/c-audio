@@ -1,0 +1,1 @@
+var audioList=[{"title":"4.1黄金原油行情分析策略早知道","urlAudio":"https://fdfs.xmcdn.com/group57/M03/86/51/wKgLd1yhWJLgY952ADdLvLKIUc8677.m4a"},{"title":"4.2黄金原油早间行情解读","urlAudio":"https://fdfs.xmcdn.com/group56/M0A/A1/27/wKgLdlyitguhx3tXAEVg9sAyeRY154.m4a"},{"title":"4.8黄金原油走势分析及策略，当周行情解读","urlAudio":"https://fdfs.xmcdn.com/group56/M03/2F/3A/wKgLdlyqBZ-zfAAAAHunE4rWX-c410.m4a"}]

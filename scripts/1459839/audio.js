@@ -1,0 +1,1 @@
+var audioList=[{"title":"2020年疫情之下中国涌现的20个商机（一）","urlAudio":"https://fdfs.xmcdn.com/group75/M03/16/B8/wKgO015HRp7jbTdcAEUCme5sYi4879.m4a"},{"title":"2020年疫情之下中国涌现的20个商机(二)","urlAudio":"https://fdfs.xmcdn.com/group74/M09/16/B3/wKgO0l5HSPyDFavSABHBFqJXup4570.m4a"},{"title":"刘华利宏观经济展望","urlAudio":"https://fdfs.xmcdn.com/group74/M00/72/46/wKgO3F5wNFiCsOP9AEBXeZig8EY223.m4a"}]

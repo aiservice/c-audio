@@ -1,0 +1,1 @@
+var audioList=[{"title":"001.节目开张，第一期说点啥？","urlAudio":"https://fdfs.xmcdn.com/group77/M02/94/90/wKgO1V5w2vHAS2TbADGSbz2UxIY628.m4a"},{"title":"002.股市长线法宝：股市崩盘？历史上早就发生过了","urlAudio":"https://fdfs.xmcdn.com/group78/M01/D4/7D/wKgO1l51sCLQP7_qAZjZnVjusfM305.m4a"}]

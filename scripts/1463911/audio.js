@@ -1,0 +1,1 @@
+var audioList=[{"title":"声行漫步——稻城亚丁","urlAudio":"https://fdfs.xmcdn.com/group39/M05/8E/84/wKgJnlp73puBuHhlACNXUCWRss8278.m4a"},{"title":"一棵开花的树","urlAudio":"https://fdfs.xmcdn.com/group74/M05/76/37/wKgO3F5wZnSwYvzUAA1cHzw5Ls4746.m4a"}]

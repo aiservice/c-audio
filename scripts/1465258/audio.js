@@ -1,0 +1,1 @@
+var audioList=[{"title":"镜子","urlAudio":"https://fdfs.xmcdn.com/group78/M0A/C4/EA/wKgO4F5UykGQoAWbABHi0gVWDmg009.m4a"},{"title":"洗澡","urlAudio":"https://fdfs.xmcdn.com/group76/M09/D0/9F/wKgO3l5Uz0zSMv70ABNb0QMm8wo037.m4a"},{"title":"加班医生","urlAudio":"https://fdfs.xmcdn.com/group77/M05/C8/12/wKgO315U087RaQ-CABJ_ets2MhE366.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"静安游泳池","urlAudio":"https://fdfs.xmcdn.com/group58/M03/55/FE/wKgLglywNHyzOIC_AAHga4fBSvo553.m4a"},{"title":"Painting class+L.38","urlAudio":"https://fdfs.xmcdn.com/group59/M02/3D/75/wKgLeFy75ujgZYcbAB2PE9OZMAU270.m4a"},{"title":"more readingL.3","urlAudio":"https://fdfs.xmcdn.com/group76/M07/45/55/wKgO3l5ssqTDpSy2ABcjoO1OK5k919.m4a"}]

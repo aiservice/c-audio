@@ -1,0 +1,1 @@
+var audioList=[{"title":"打铁必须自身硬","urlAudio":"https://fdfs.xmcdn.com/group63/M06/AC/24/wKgMcl0eGk6S5gpnAAMNcSZtatU081.m4a"},{"title":"持之以恒正风肃纪","urlAudio":"https://fdfs.xmcdn.com/group62/M03/B0/63/wKgMZ10esc_Bj1O0AAQeXeqtUjM981.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"儿童防疫指南","urlAudio":"https://fdfs.xmcdn.com/group70/M08/D6/E8/wKgO2F5FQUaTl9EYABjbz_qnEXQ620.m4a"},{"title":"手语版儿童防疫指南","urlAudio":"https://fdfs.xmcdn.com/group71/M03/D1/86/wKgO2V5FRVijLR80AClXi-wN8cw361.m4a"},{"title":"儿童防疫手语歌，轻松记住关键词","urlAudio":"https://fdfs.xmcdn.com/group78/M03/14/A0/wKgO4F5H5knzaOz_ABCYG0kbnjw255.m4a"}]

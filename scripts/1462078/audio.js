@@ -1,0 +1,1 @@
+var audioList=[{"title":"数学可以这样学","urlAudio":"https://fdfs.xmcdn.com/group71/M00/CC/85/wKgO2V4N5tawKUMYABk3qQ3JX7s872.m4a"},{"title":"数学可以这样学","urlAudio":"https://fdfs.xmcdn.com/group72/M09/93/C1/wKgO0F4N6pTzVGg8ABiDWIwA5p4737.m4a"}]

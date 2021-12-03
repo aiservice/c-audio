@@ -1,0 +1,1 @@
+var audioList=[{"title":"5G应用设想一，你比4G多1G","urlAudio":"https://fdfs.xmcdn.com/group63/M06/EA/F7/wKgMaF0gVT3A4KpFABUrKEUJhGk347.m4a"},{"title":"5G应用设想二，直播让你猝不及防","urlAudio":"https://fdfs.xmcdn.com/group63/M07/EC/3F/wKgMaF0gXpDAb0uoABhil5qhd94804.m4a"},{"title":"5G应用设想三，你外挂的第二个脑袋","urlAudio":"https://fdfs.xmcdn.com/group62/M02/FD/5C/wKgMcV0gxkby09tNABeQsHxVGgE220.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"【直播回听】黄金，美股交易策略","urlAudio":"https://fdfs.xmcdn.com/group77/M08/33/1F/wKgO315bqkbAjC-XAAHNVpQ6uZI722.m4a"},{"title":"黄金美股交易策略与技巧","urlAudio":"https://fdfs.xmcdn.com/group74/M06/3F/87/wKgO0l5bqt-DbmaqAEc3G9wJt8M091.m4a"},{"title":"顺势而为，择机而动《股票做手回忆录》节选","urlAudio":"https://fdfs.xmcdn.com/group74/M06/53/0F/wKgO3F5dsxKhDEG3APdfrhGKDO0811.m4a"}]

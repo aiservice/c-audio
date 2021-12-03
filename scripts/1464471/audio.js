@@ -1,0 +1,1 @@
+var audioList=[{"title":"土耳其伟大诗人尤努斯．埃姆利名诗两首","urlAudio":"https://fdfs.xmcdn.com/group72/M0B/E8/E8/wKgO0F4-N1zwf4TXACBOdQQne20894.m4a"},{"title":"国外艺术家极感人的分享一一我从毒品黑暗的生活到光明","urlAudio":"https://fdfs.xmcdn.com/group71/M06/75/B9/wKgO2V5CN6mCM99uAE5yjmZ18GE693.m4a"},{"title":"釆访扫地僧（转发自莲花的分享","urlAudio":"https://fdfs.xmcdn.com/group71/M07/76/53/wKgOz15COwmiBq6eACIM300-PGY470.m4a"}]

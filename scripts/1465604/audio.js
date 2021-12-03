@@ -1,0 +1,1 @@
+var audioList=[{"title":"读你读过得书","urlAudio":"https://fdfs.xmcdn.com/group69/M01/EB/C9/wKgMeV3FcnHS07n_AAcHFCWM1d8406.m4a"},{"title":"收集阳光","urlAudio":"https://fdfs.xmcdn.com/group69/M04/EC/50/wKgMeV3FdSnjQe2sAAMgistXWps153.m4a"},{"title":"读书","urlAudio":"https://fdfs.xmcdn.com/group69/M06/EC/75/wKgMeV3FdiChFuZHAAhmCWE18mo697.m4a"}]

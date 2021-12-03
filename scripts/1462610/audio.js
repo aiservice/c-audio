@@ -1,0 +1,1 @@
+var audioList=[{"title":"01 - 语音及字母表","urlAudio":"https://fdfs.xmcdn.com/group72/M0A/57/8E/wKgO0F4VNpDhGYHVAFE0363nouQ256.m4a"},{"title":"02 - 葡萄牙语问候及介绍","urlAudio":"https://fdfs.xmcdn.com/group70/M02/BB/84/wKgOzl4eiRCg6lbrACgE5RpsNgU207.m4a"}]

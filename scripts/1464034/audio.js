@@ -1,0 +1,1 @@
+var audioList=[{"title":"唐山最具地方色彩唱腔","urlAudio":"https://fdfs.xmcdn.com/group70/M0B/61/50/wKgO2F4GFj-DnqaNACFCOTlF4_s421.m4a"},{"title":"赵 艳——《红灯记》","urlAudio":"https://fdfs.xmcdn.com/group70/M04/67/BB/wKgOzl4G0gmxemPkAHfL8ySIldo824.m4a"}]

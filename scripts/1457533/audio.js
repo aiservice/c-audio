@@ -1,0 +1,1 @@
+var audioList=[{"title":"阿茄粗现呢","urlAudio":"https://fdfs.xmcdn.com/group36/M05/37/0D/wKgJTVpOPIGQfUR6ADijn5cRGjw000.m4a"},{"title":"请多多关照，我是茄子","urlAudio":"https://fdfs.xmcdn.com/group18/M05/DE/B7/wKgJKlpV_F3yuE7jAGqGlpvr30M705.m4a"},{"title":"2020年第一条语音日记","urlAudio":"https://fdfs.xmcdn.com/group75/M09/82/66/wKgO015Oq57j9jEzABwRSMaT8FM470.m4a"}]

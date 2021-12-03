@@ -1,0 +1,1 @@
+var audioList=[{"title":"陶罐和铁罐","urlAudio":"https://fdfs.xmcdn.com/group77/M01/B9/42/wKgO3150iGDyEXbNABij-k5c2t8028.m4a"},{"title":"狮子和鹿","urlAudio":"https://fdfs.xmcdn.com/group77/M02/01/5E/wKgO1V54Yz7h2P12ABabfXlIsHI537.m4a"},{"title":"池子与河流","urlAudio":"https://fdfs.xmcdn.com/group77/M01/EE/6E/wKgO3154ZFPyg67pABhf32Eh3dw118.m4a"}]

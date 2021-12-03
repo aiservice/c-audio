@@ -1,0 +1,1 @@
+var audioList=[{"title":"翡翠与宗教政治及驱灾辟邪的关系","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/91/17/wKgO1l5PouXzbLICAML5vOsVaLY099.m4a"},{"title":"翡翠玉石保健功能","urlAudio":"https://fdfs.xmcdn.com/group75/M08/84/8F/wKgO3V5PrJGhuNMUAM5M869nE78703.m4a"}]

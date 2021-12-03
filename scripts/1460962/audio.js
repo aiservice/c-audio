@@ -1,0 +1,1 @@
+var audioList=[{"title":"翟鸿燊经典语录1","urlAudio":"https://fdfs.xmcdn.com/group41/M07/40/2E/wKgJ8Vq-WRvD31T2ABwQ_87Y-O4273.m4a"},{"title":"翟鸿燊经典语录2","urlAudio":"https://fdfs.xmcdn.com/group42/M00/41/23/wKgJ9Fq-W0STjGSJADSr8W6I1W4329.m4a"},{"title":"翟鸿燊经典语录3","urlAudio":"https://fdfs.xmcdn.com/group40/M01/08/3C/wKgJT1q-YrnRqXRAABIqHbTZ-MY915.m4a"}]

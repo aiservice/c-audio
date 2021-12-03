@@ -1,0 +1,1 @@
+var audioList=[{"title":"胡同里的生活（西安回民街）","urlAudio":"https://fdfs.xmcdn.com/group77/M0A/D2/41/wKgO315mAkDyk-A-AAXhQtUXvjs101.m4a"},{"title":"布拉格广场的角落","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/2A/68/wKgO3F5rSiLCp0FmAA9XCUfzNC4026.m4a"}]

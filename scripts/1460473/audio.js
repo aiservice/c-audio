@@ -1,0 +1,1 @@
+var audioList=[{"title":"一个人应该活得是自己并且干净（节选）","urlAudio":"https://fdfs.xmcdn.com/group75/M03/2C/81/wKgO015aWKLyjATgABWu69PDwIs326.m4a"},{"title":"世界很大","urlAudio":"https://fdfs.xmcdn.com/group77/M05/C1/38/wKgO1V5jdoaxMA1hAATsGX531lU795.m4a"},{"title":"当你老了","urlAudio":"https://fdfs.xmcdn.com/group77/M06/03/0B/wKgO1V54eX3ge6eTAAoeq0RFGl4044.m4a"}]

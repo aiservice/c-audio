@@ -1,0 +1,1 @@
+var audioList=[{"title":"两会采访-全国政协委员、毕马威会计师事务所中国区企业主管合伙人龚永德","urlAudio":"https://fdfs.xmcdn.com/group57/M0B/DE/8C/wKgLd1yYkaKjYaSiACzvwHse_1I194.m4a"},{"title":"两会采访-全国政协委员、毕马威会计师事务所中国区企业主管合伙人龚永德 （下）","urlAudio":"https://fdfs.xmcdn.com/group55/M08/E0/69/wKgLdVyYkZ7T0Ty1ACwGewYhScc901.m4a"}]

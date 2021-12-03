@@ -1,0 +1,1 @@
+var audioList=[{"title":"第1条至第6条","urlAudio":"https://fdfs.xmcdn.com/group61/M02/94/24/wKgMcF2dbF3B7uQqABA2aPMGuf8388.m4a"},{"title":"第7条至第13条","urlAudio":"https://fdfs.xmcdn.com/group61/M08/94/53/wKgMZl2dba6AWSJBABfXDySANN0031.m4a"}]

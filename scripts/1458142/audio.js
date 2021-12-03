@@ -1,0 +1,1 @@
+var audioList=[{"title":"盲僧前世今生","urlAudio":"https://fdfs.xmcdn.com/group74/M04/46/0D/wKgO3F5cyuOh1EuEABX-x0fetcA620.m4a"},{"title":"武汉莫慌加油","urlAudio":"https://fdfs.xmcdn.com/group76/M08/50/36/wKgO3l5c-jCjUJ4KAAzdIipc8ls457.m4a"}]

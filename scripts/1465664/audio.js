@@ -1,0 +1,1 @@
+var audioList=[{"title":"建设工程施工合同纠纷司法解释 （上）","urlAudio":"https://fdfs.xmcdn.com/group75/M09/E4/94/wKgO3V5WWozxh3WYACm5pIS9Yes686.m4a"},{"title":"建设工程施工合同纠纷司法解释 （中）","urlAudio":"https://fdfs.xmcdn.com/group74/M09/E4/6D/wKgO3F5WXBWyaKJkACWOFbBIGfI319.m4a"},{"title":"建设工程施工合同纠纷司法解释 （下）","urlAudio":"https://fdfs.xmcdn.com/group75/M07/E4/E5/wKgO3V5WXU7g2TJAABKBC2c03p0408.m4a"}]

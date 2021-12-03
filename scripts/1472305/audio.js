@@ -1,0 +1,1 @@
+var audioList=[{"title":"现货黄金，白银技术分析之黄金分割实战大全-如何判断涨跌空间","urlAudio":"https://fdfs.xmcdn.com/group34/M08/8A/16/wKgJYFnl56DSxFyGAKRisYa4JbI734.m4a"}]

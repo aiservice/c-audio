@@ -1,0 +1,1 @@
+var audioList=[{"title":"11课读5次","urlAudio":"https://fdfs.xmcdn.com/group75/M00/FC/1F/wKgO3V55ZyuglHCyACxp9IHO9z4858.m4a"},{"title":"星期二阅读石雅葶","urlAudio":"https://fdfs.xmcdn.com/group73/M09/00/FE/wKgO2155imrz7Vd6AJSeM_l8v00705.m4a"},{"title":"12课读5次","urlAudio":"https://fdfs.xmcdn.com/group78/M09/FC/A0/wKgO4F55vxfCDtEaAEP01ySEPtQ666.m4a"}]

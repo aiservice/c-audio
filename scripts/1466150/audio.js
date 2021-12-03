@@ -1,0 +1,1 @@
+var audioList=[{"title":"高志财分享会保险","urlAudio":"https://fdfs.xmcdn.com/group72/M09/22/DD/wKgO0F5EC53SQMOcAdp4rX8sIw0130.m4a"},{"title":"张宇在三门峡讲解BC融合","urlAudio":"https://fdfs.xmcdn.com/group72/M04/26/4E/wKgO0F5EFXySMbyMAkjmvCgV4-E081.m4a"}]

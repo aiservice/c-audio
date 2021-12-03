@@ -1,0 +1,1 @@
+var audioList=[{"title":"1.介绍","urlAudio":"https://fdfs.xmcdn.com/group75/M00/C4/37/wKgO3V51gieB8tQwACJbCsFK9Zo912.m4a"},{"title":"2.振动的影响","urlAudio":"https://fdfs.xmcdn.com/group74/M00/EE/AC/wKgO3F54a7fioVT9ABncQWt76ZA024.m4a"}]

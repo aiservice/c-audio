@@ -1,0 +1,1 @@
+var audioList=[{"title":"关于在干部教育培训中进一步加强学员管理的规定","urlAudio":"https://fdfs.xmcdn.com/group21/M09/E0/B3/wKgJKFjCizuTpuTmAC_6SeGNrJw241.m4a"}]

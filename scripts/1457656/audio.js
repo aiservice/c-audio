@@ -1,0 +1,1 @@
+var audioList=[{"title":"工程光学1","urlAudio":"https://fdfs.xmcdn.com/group68/M06/57/81/wKgMeF28uSeStXycABGiN1cS_bo684.m4a"},{"title":"光学频域全息介绍","urlAudio":"https://fdfs.xmcdn.com/group77/M0B/F0/29/wKgO3154epTj1jJTAE4egOU8_8c557.m4a"},{"title":"直接映射模式的全息","urlAudio":"https://fdfs.xmcdn.com/group78/M08/FD/D6/wKgO4F55z3bCUAknAHJpgSclkHA255.m4a"}]

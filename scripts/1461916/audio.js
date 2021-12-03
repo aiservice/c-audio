@@ -1,0 +1,1 @@
+var audioList=[{"title":"【直播回听】重组自我","urlAudio":"https://fdfs.xmcdn.com/group71/M02/FD/A5/wKgOz14Rl8zSMCpIAFYQpGqaN54950.m4a"},{"title":"微群主之家：很多微商失败了，就在于不想慢慢成功！","urlAudio":"https://fdfs.xmcdn.com/group72/M04/FB/CF/wKgO0F4RyieAMZWuAE2b6Fnfr4s955.m4a"}]

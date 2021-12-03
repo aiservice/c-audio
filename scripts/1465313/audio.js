@@ -1,0 +1,1 @@
+var audioList=[{"title":"莫泊桑《项链》一 MRZ","urlAudio":"https://fdfs.xmcdn.com/group72/M04/FB/FC/wKgO0F5DjFDzy_jNAIAT9vbab3w660.m4a"},{"title":"莫泊桑《项链》二 MRZ","urlAudio":"https://fdfs.xmcdn.com/group70/M00/9F/EE/wKgO2F5DjuCwRhhzAEG4GcMSUcU928.m4a"}]

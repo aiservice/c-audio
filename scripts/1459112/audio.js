@@ -1,0 +1,1 @@
+var audioList=[{"title":"西汉名将周亚夫—治军有方","urlAudio":"https://fdfs.xmcdn.com/group78/M08/BF/56/wKgO4F51kbSxDaNsABUaG42TmSk735.m4a"},{"title":"西汉名将周亚夫—不从君命","urlAudio":"https://fdfs.xmcdn.com/group76/M03/E3/A7/wKgO1F5281ygsLdaADdrzmVldCw583.m4a"}]

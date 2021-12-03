@@ -1,0 +1,1 @@
+var audioList=[{"title":"二十一天交易训练营（第一天）","urlAudio":"https://fdfs.xmcdn.com/group75/M04/05/75/wKgO3V5GfN2BmaO2ANH-mJMJtjI248.m4a"},{"title":"二十一天交易训练营（第二天）","urlAudio":"https://fdfs.xmcdn.com/group78/M07/4A/64/wKgO1l5KiNrRt9fYAQlKNCa_sSo232.m4a"},{"title":"二十一天交易训练营（第三天）","urlAudio":"https://fdfs.xmcdn.com/group77/M03/8F/CF/wKgO1V5gbHrxZccPAQlKNBrNpu8595.m4a"}]

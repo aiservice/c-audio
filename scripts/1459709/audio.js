@@ -1,0 +1,1 @@
+var audioList=[{"title":"《每周质量报告》20181202互联网理财平台非法广告调查","urlAudio":"https://fdfs.xmcdn.com/group74/M02/D7/DB/wKgO3F5mJqaw67NxAI8N-Yh8YzQ808.m4a"},{"title":"《每周质量报告》20181230黑骨藤长寿茶热销调查","urlAudio":"https://fdfs.xmcdn.com/group75/M05/D7/6F/wKgO3V5mLBniJlKJAJGm0bYJmVU340.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"逍遥派。 第一章 最是无用是书生","urlAudio":"https://fdfs.xmcdn.com/group77/M08/B3/15/wKgO315Te_eitCceAFRVKeUR1mU934.m4a"},{"title":"第二章","urlAudio":"https://fdfs.xmcdn.com/group76/M09/6F/58/wKgO1F5fFk3gc6EpADaXVSazHMs295.m4a"}]

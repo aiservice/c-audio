@@ -1,0 +1,1 @@
+var audioList=[{"title":"广播剧《青山青史》第1集（闽南语版）","urlAudio":"https://fdfs.xmcdn.com/group71/M09/56/7C/wKgO2V4FnQqA8tC_AOLhOlqBCpo848.m4a"},{"title":"广播剧《青山青史》第2集（闽南语版）","urlAudio":"https://fdfs.xmcdn.com/group72/M09/A9/F7/wKgO0F4FnSKQoVNeANd37VT2PAI282.m4a"},{"title":"广播剧《青山青史》第3集（闽南语版）","urlAudio":"https://fdfs.xmcdn.com/group72/M09/AA/02/wKgO0F4FnUWg0HW7AQcdjFHp1GY129.m4a"}]

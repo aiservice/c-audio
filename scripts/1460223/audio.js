@@ -1,0 +1,1 @@
+var audioList=[{"title":"01在上海译文社找到最好的那本书","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/A5/90/wKgO3F5i1n6QgNaKAUrDWQm4SDs988.m4a"},{"title":"02上海教育出版社：做中国最好的教育出版","urlAudio":"https://fdfs.xmcdn.com/group74/M0B/96/0C/wKgO0l5xz-Gy9XGMANM7XvKFeKc740.m4a"},{"title":"03云游出版社：上海科学技术出版社背后的硬核故事","urlAudio":"https://fdfs.xmcdn.com/group76/M06/FA/6F/wKgO1F54fPyh4aB-AXLljc5_zzQ852.m4a"}]

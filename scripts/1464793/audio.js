@@ -1,0 +1,1 @@
+var audioList=[{"title":"天天","urlAudio":"https://fdfs.xmcdn.com/group77/M0A/D9/38/wKgO31524VPQSr0fAAkmvtpCm7c587.m4a"},{"title":"Ti","urlAudio":"https://fdfs.xmcdn.com/group77/M08/FE/52/wKgO1V54NxXS3251AAfBJR3BDZs151.m4a"}]

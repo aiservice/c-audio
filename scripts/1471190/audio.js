@@ -1,0 +1,1 @@
+var audioList=[{"title":"新白娘子传奇插曲配乐 一直金叉续前缘","urlAudio":"https://fdfs.xmcdn.com/group62/M00/30/3D/wKgMZ10GZfWAU86_AAnJ5ssVrJo172.m4a"},{"title":"新白娘子传奇插曲配乐之千年回忆","urlAudio":"https://fdfs.xmcdn.com/group61/M04/2F/F4/wKgMZl0GZ-3jpjvjABN_chbJKTU356.m4a"},{"title":"新白娘子传奇插曲之情与法","urlAudio":"https://fdfs.xmcdn.com/group62/M03/32/E2/wKgMZ10G0wqgdB3AABKX9ge-PGU060.m4a"}]

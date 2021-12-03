@@ -1,0 +1,1 @@
+var audioList=[{"title":"资产配置的密码之金融工具的力量","urlAudio":"https://fdfs.xmcdn.com/group43/M0A/44/21/wKgKjVsFPw7xgY81ACqU2TAKB8k481.m4a"},{"title":"资产配置的密码之复利，让时间为财富赋能","urlAudio":"https://fdfs.xmcdn.com/group43/M03/3B/77/wKgKklsOyQ7zGDq9ACuKCZua2rw638.m4a"},{"title":"资产配置的秘密--现金流、时间和金钱的游戏","urlAudio":"https://fdfs.xmcdn.com/group44/M09/86/45/wKgKkVsigP3wRQoIADDjwDXVSbQ974.m4a"}]

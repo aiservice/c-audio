@@ -1,0 +1,1 @@
+var audioList=[{"title":"学习资本思维，财富完美升级","urlAudio":"https://fdfs.xmcdn.com/group71/M00/9B/44/wKgOz145ttKg_jckAAdJJhRn5NQ922.m4a"}]

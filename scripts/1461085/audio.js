@@ -1,0 +1,1 @@
+var audioList=[{"title":"模块一《职业理念》","urlAudio":"https://fdfs.xmcdn.com/group73/M02/90/22/wKgO0V5g20rS1pdxAFWXCfu-V0A071.m4a"},{"title":"模块二","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/7C/84/wKgO1l5wMIXhsmDRACNN2vaxO2c493.m4a"}]

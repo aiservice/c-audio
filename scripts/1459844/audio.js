@@ -1,0 +1,1 @@
+var audioList=[{"title":"华夏幸福董事长王文学谈情怀理想","urlAudio":"https://fdfs.xmcdn.com/group42/M04/B4/12/wKgJ9Fre2STTYmaEAE4nuP9s_RY478.m4a"},{"title":"时代中国2019年报业绩会老总讲话","urlAudio":"https://fdfs.xmcdn.com/group77/M06/1E/2E/wKgO315qcNPyFQ1zAchnWXoyDAw033.m4a"}]

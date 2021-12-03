@@ -1,0 +1,1 @@
+var audioList=[{"title":"广播剧 | 红辣椒","urlAudio":"https://fdfs.xmcdn.com/group76/M07/75/07/wKgO1F5vt9yQJOXKAMJdfXUhAFw275.m4a"},{"title":"广播剧 | 红辣椒（文明版）","urlAudio":"https://fdfs.xmcdn.com/group74/M03/7B/8E/wKgO0l5wOJrxmA6bAMJdfXGb8ck094.m4a"}]

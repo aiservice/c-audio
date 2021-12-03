@@ -1,0 +1,1 @@
+var audioList=[{"title":"你会用什么词来形容现在20-30岁的年轻人？","urlAudio":"https://fdfs.xmcdn.com/group60/M03/30/D0/wKgLeVyuDb2AILI8ACQgO9lUum8666.m4a"},{"title":"你考研到底是为了什么？","urlAudio":"https://fdfs.xmcdn.com/group59/M03/31/36/wKgLeFyuExaiIcnTAJKZB1nuSNI255.m4a"},{"title":"是什么坚定了你考公务员的决心？","urlAudio":"https://fdfs.xmcdn.com/group66/M00/4F/6C/wKgMdV2HTdHRlCSYACGFxzl-c7w225.m4a"}]

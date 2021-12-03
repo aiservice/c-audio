@@ -1,0 +1,1 @@
+var audioList=[{"title":"中国共产党党内法规制定条例","urlAudio":"https://fdfs.xmcdn.com/group24/M0A/CD/C2/wKgJNVi41NnynblbAIKYJVRQ940036.m4a"}]

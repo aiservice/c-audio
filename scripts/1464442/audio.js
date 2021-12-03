@@ -1,0 +1,1 @@
+var audioList=[{"title":"刘吉领——手疼和手麻","urlAudio":"https://fdfs.xmcdn.com/group65/M04/B1/98/wKgMdF3x6KfQmI4CACUUNXSu27s052.m4a"},{"title":"刘吉领——新一针简介","urlAudio":"https://fdfs.xmcdn.com/group58/M0B/49/2A/wKgLc13x6PHh8HscACk54TEVfZk532.m4a"},{"title":"刘吉领讲头十针治疗头晕头痛","urlAudio":"https://fdfs.xmcdn.com/group76/M05/8F/D6/wKgO1F5g7CaRtjFbAI7IPf2Lz7g754.m4a"}]

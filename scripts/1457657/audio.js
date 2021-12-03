@@ -1,0 +1,1 @@
+var audioList=[{"title":"总有一个人要先走","urlAudio":"https://fdfs.xmcdn.com/group16/M01/2C/AC/wKgDbFWJnAOQ6hTYAGFMauZ3nmA219.m4a"},{"title":"你是我无法企及的光","urlAudio":"https://fdfs.xmcdn.com/group11/M01/46/17/wKgDa1WnVsizR5qwAIbZuKj6vpQ093.m4a"},{"title":"小王子的玫瑰花","urlAudio":"https://fdfs.xmcdn.com/group73/M03/F0/20/wKgO2154eZTyJBcnAAkAr3kEyAw547.m4a"}]

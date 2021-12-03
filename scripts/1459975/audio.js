@@ -1,0 +1,1 @@
+var audioList=[{"title":"为什么说寿险并不是保障期限越长越好？为什么说终身寿险不如定期寿险？","urlAudio":"https://fdfs.xmcdn.com/group73/M03/C1/AD/wKgO21506SHgIiW5AFIJbFLyetc342.m4a"},{"title":"为什么理财保险会有很多的坑？如何避免理财保险的坑？","urlAudio":"https://fdfs.xmcdn.com/group77/M06/F7/3C/wKgO1V53emygDN58AHTvMlLFJqY597.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"感冒病因病机","urlAudio":"https://fdfs.xmcdn.com/group77/M08/8C/8F/wKgO315hFpaSbYGDAFInpekOP_Q756.m4a"},{"title":"中医针灸","urlAudio":"https://fdfs.xmcdn.com/group73/M09/9E/EF/wKgO0V5h3QGz294_AJCmO-60vcI794.m4a"}]

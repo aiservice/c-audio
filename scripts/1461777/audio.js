@@ -1,0 +1,1 @@
+var audioList=[{"title":"5G 硬核知识点","urlAudio":"https://fdfs.xmcdn.com/group65/M04/C6/C7/wKgMdF1ZX5iynAoDAB6aWAtStJI909.m4a"},{"title":"5G 网络发展前景和商用进程","urlAudio":"https://fdfs.xmcdn.com/group66/M09/DD/90/wKgMa11bXmmCTxhhABztjKcWTz4758.m4a"},{"title":"5G时代的到来，普通人有哪些创业机会？","urlAudio":"https://fdfs.xmcdn.com/group65/M03/67/84/wKgMal1lTYqBti1nACC_iNBbn7M698.m4a"}]

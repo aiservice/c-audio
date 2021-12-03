@@ -1,0 +1,1 @@
+var audioList=[{"title":"Кому подражает сын?","urlAudio":"https://fdfs.xmcdn.com/group69/M00/18/ED/wKgMeV2pDCjQSqenAAd8jXYsMQ8883.m4a"},{"title":"Не бойтесь напоминаний","urlAudio":"https://fdfs.xmcdn.com/group67/M06/2B/04/wKgMd12qTTvhUn-2AAgsw02YRm4701.m4a"},{"title":"Жди меня","urlAudio":"https://fdfs.xmcdn.com/group77/M07/AC/4A/wKgO1V5iGJ-TPL6AABrOlgHDmME044.m4a"}]

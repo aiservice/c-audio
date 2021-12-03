@@ -1,0 +1,1 @@
+var audioList=[{"title":"5G大数据","urlAudio":"https://fdfs.xmcdn.com/group65/M08/11/A6/wKgMdF1fQKCQCr1LACSmgaUMt1g410.m4a"},{"title":"5G神奇的时代","urlAudio":"https://fdfs.xmcdn.com/group65/M00/AE/A4/wKgMal1XjlrjfdS-ACUQwY89GG0610.m4a"},{"title":"智能语音镜","urlAudio":"https://fdfs.xmcdn.com/group64/M09/DF/4A/wKgMc11bfI7gINA4ACqJGYMuXdQ974.m4a"}]

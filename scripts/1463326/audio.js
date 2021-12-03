@@ -1,0 +1,1 @@
+var audioList=[{"title":"生存开始","urlAudio":"https://fdfs.xmcdn.com/group74/M05/95/2A/wKgO3F5hwyHiZ1dyADwz7o_EbME943.m4a"},{"title":"闺蜜生存","urlAudio":"https://fdfs.xmcdn.com/group77/M06/CF/10/wKgO1V5khAKyMrTVABOYTCn9VYE256.m4a"}]

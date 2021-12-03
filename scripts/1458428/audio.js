@@ -1,0 +1,1 @@
+var audioList=[{"title":"种下一粒豆","urlAudio":"https://fdfs.xmcdn.com/group33/M07/0F/B5/wKgJTFoEKD_xgG63AAJ1Nbd27lM808.m4a"},{"title":"鳄鱼来了","urlAudio":"https://fdfs.xmcdn.com/group34/M08/73/D6/wKgJYVoFan_SlomPAAViEihp7AA639.m4a"},{"title":"我的连衣裙","urlAudio":"https://fdfs.xmcdn.com/group77/M0A/EC/C2/wKgO1V526r2h0or7ABKjQYdk164494.m4a"}]

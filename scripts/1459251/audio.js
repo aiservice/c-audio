@@ -1,0 +1,1 @@
+var audioList=[{"title":"比特西游记楔子-《经典国学之西游记》","urlAudio":"https://fdfs.xmcdn.com/group73/M07/ED/FC/wKgO0V53gd-QW4o9AIg_ykBJUTs726.m4a"},{"title":"比特西游第一阶段——经典案情之真假美猴王（一）","urlAudio":"https://fdfs.xmcdn.com/group73/M05/19/E5/wKgO0V56VlXxOTVQAI8tIBkJiJg909.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"农夫的愿望（粤语）","urlAudio":"https://fdfs.xmcdn.com/group78/M0A/CA/45/wKgO4F52IKeil-gTACDdYxhAlJQ002.m4a"},{"title":"三只青蛙(粤语)","urlAudio":"https://fdfs.xmcdn.com/group73/M02/FF/6F/wKgO0V54sv2QTN0FAB7yVs3OUrE530.m4a"}]

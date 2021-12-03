@@ -1,0 +1,1 @@
+var audioList=[{"title":"427访谈之6699有话要说","urlAudio":"https://fdfs.xmcdn.com/group21/M01/17/68/wKgJLVhnWqCDS2cyAQkuBs8rwJ0537.m4a"},{"title":"427之元旦祝福","urlAudio":"https://fdfs.xmcdn.com/group23/M04/1D/AE/wKgJL1ho1CejnBsdACmyV52KKCA614.m4a"}]

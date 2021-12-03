@@ -1,0 +1,1 @@
+var audioList=[{"title":"慧琳2020年三八女神节项目落地课程","urlAudio":"https://fdfs.xmcdn.com/group77/M03/5A/01/wKgO315eMLSAGEKlAOJCXuZ4Jak959.m4a"},{"title":"2020年水谷在线新零售项目落地课","urlAudio":"https://fdfs.xmcdn.com/group73/M07/D5/61/wKgO215mI7Pgro9EANCfr6aHm4c653.m4a"},{"title":"2020年百思捷在线新零售项目课","urlAudio":"https://fdfs.xmcdn.com/group77/M04/01/59/wKgO1V54YnaQklePAOSNJ_ACB-I170.m4a"}]

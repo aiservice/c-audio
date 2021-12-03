@@ -1,0 +1,1 @@
+var audioList=[{"title":"阿飞正传：张国荣独白","urlAudio":"https://fdfs.xmcdn.com/group74/M0B/71/BE/wKgO3F5feWugMDrEAAO8KujE0n0573.m4a"},{"title":"向左走，向右走","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/71/E6/wKgO3F5fe3iQtx_zAAjTD4eXwfY866.m4a"},{"title":"岳阳楼记","urlAudio":"https://fdfs.xmcdn.com/group78/M08/81/D5/wKgO1l5foGHhLbxyABRqmaIlecw421.m4a"}]

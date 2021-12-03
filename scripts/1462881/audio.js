@@ -1,0 +1,1 @@
+var audioList=[{"title":"3月22日小白地产快讯","urlAudio":"https://fdfs.xmcdn.com/group76/M06/E1/E5/wKgO3l523SzRGvqxAD5x6MryAAs143.m4a"},{"title":"3月23日小白地产快讯","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/09/8C/wKgO0l55jyuj2NGdAEJ6KfMp1gc648.m4a"},{"title":"3月24日小白地产快讯","urlAudio":"https://fdfs.xmcdn.com/group76/M05/0E/CB/wKgO3l55wcOgdGFNAEK9-7-EDQU201.m4a"}]

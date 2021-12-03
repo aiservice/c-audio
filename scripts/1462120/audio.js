@@ -1,0 +1,1 @@
+var audioList=[{"title":"时间是什么？","urlAudio":"https://fdfs.xmcdn.com/group60/M05/B4/D0/wKgLeVzqJlbQuZ-4AAkn3Yucicw496.m4a"},{"title":"时间存在吗","urlAudio":"https://fdfs.xmcdn.com/group60/M03/B5/3E/wKgLeVzqKpvhUIOxABv7DWxFROg860.m4a"},{"title":"时间与熵","urlAudio":"https://fdfs.xmcdn.com/group60/M04/B5/AD/wKgLb1zqM1_w2Gg_AB1xtX8lnWs910.m4a"}]

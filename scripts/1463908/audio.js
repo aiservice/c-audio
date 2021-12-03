@@ -1,0 +1,1 @@
+var audioList=[{"title":"01旅行使我們謙虛（旅行的意義）","urlAudio":"https://fdfs.xmcdn.com/group75/M0B/F0/A0/wKgO3V5nnXiDj-SUAEBpJJHOheQ812.m4a"},{"title":"02帶上靈魂去旅行（帶著骨灰去旅行）","urlAudio":"https://fdfs.xmcdn.com/group78/M02/29/A4/wKgO4F5rkf2zR2VyAFYnKUHiu-g306.m4a"},{"title":"03.鳥瞰愛民頓（詩和遠方）","urlAudio":"https://fdfs.xmcdn.com/group74/M04/8A/1F/wKgO0l5w2ADSYEBcAFkyOWLZFgU477.m4a"}]

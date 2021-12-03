@@ -1,0 +1,1 @@
+var audioList=[{"title":"迎接未来的自己","urlAudio":"https://fdfs.xmcdn.com/group75/M0A/41/03/wKgO015KUSmCWr75AAaGH0V6Wco776.m4a"},{"title":"【直播回听】睡了吗","urlAudio":"https://fdfs.xmcdn.com/group75/M0A/45/86/wKgO3V5tJkrxG-hYARSFEpG4eRQ553.m4a"},{"title":"【直播回听】来吧来吧","urlAudio":"https://fdfs.xmcdn.com/group77/M0A/EF/E8/wKgO3154d4WQ2XZnAX-frhUPMLg550.m4a"}]

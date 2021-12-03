@@ -1,0 +1,1 @@
+var audioList=[{"title":"天庭打手三太子-“我们的赌约”前篇","urlAudio":"https://fdfs.xmcdn.com/group76/M02/C4/8D/wKgO1F50rTuB3qNgACcOjcnKtno797.m4a"},{"title":"天庭打手-二","urlAudio":"https://fdfs.xmcdn.com/group75/M04/DA/91/wKgO0152Jq6jgWHFAD0QfTrMY3k025.m4a"},{"title":"天庭打手-三","urlAudio":"https://fdfs.xmcdn.com/group73/M04/F2/20/wKgO0V54GDiCsnqdACR5qozslNk419.m4a"}]

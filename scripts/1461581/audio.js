@@ -1,0 +1,1 @@
+var audioList=[{"title":"英雄三人组","urlAudio":"https://fdfs.xmcdn.com/group71/M08/F6/1D/wKgO2V4hy42CQ4U-AFPoWWm5LXI330.m4a"},{"title":"习武之人","urlAudio":"https://fdfs.xmcdn.com/group72/M02/52/F7/wKgO0F4lwynwEEa2AFX8DyxT1Is330.m4a"},{"title":"青年三巨头","urlAudio":"https://fdfs.xmcdn.com/group72/M07/7B/90/wKgO0F4nEaGhXkq8ADmvAzNSDlI045.m4a"}]

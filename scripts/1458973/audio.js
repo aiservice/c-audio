@@ -1,0 +1,1 @@
+var audioList=[{"title":"闻喜历史相册---全国劳模吴吉昌","urlAudio":"https://fdfs.xmcdn.com/group76/M05/F9/C1/wKgO3l54eqKjfRvxABb88eY7EOE506.m4a"},{"title":"舌尖上的闻喜--北垣农家茵陈馍花菜(解说：佀全乐)","urlAudio":"https://fdfs.xmcdn.com/group73/M0B/F9/EB/wKgO0V54fcjiBV-UAAizRo-vRb4222.m4a"}]

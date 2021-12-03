@@ -1,0 +1,1 @@
+var audioList=[{"title":"拉马虚：访谈录(节选）","urlAudio":"https://fdfs.xmcdn.com/group77/M01/A5/21/wKgO315zQt_iti5mATMT3aS0z7o944.m4a"},{"title":"拉马虚：访谈录（第二部分）","urlAudio":"https://fdfs.xmcdn.com/group75/M04/CA/A3/wKgO3V515bahWieOAGWVSTMvtPI632.m4a"},{"title":"拉马虚：访谈录（第三部分）","urlAudio":"https://fdfs.xmcdn.com/group75/M03/EF/65/wKgO3V54iMDhmCriAHzbX62FLAc146.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"数据之声，分享数据之美","urlAudio":"https://fdfs.xmcdn.com/group57/M0B/64/84/wKgLgV38zZrBzuBcAFc9qXluNEI245.m4a"},{"title":"新硎初试 · FUI交互设计实践","urlAudio":"https://fdfs.xmcdn.com/group72/M04/A4/17/wKgO0F4FYEDiN8KHAG4B4aihqS0247.m4a"},{"title":"构建三维数字空间，实践三维数字管控","urlAudio":"https://fdfs.xmcdn.com/group78/M03/09/6B/wKgO4F5pz0SRXnjKAGQQAS5Zz1o116.m4a"}]

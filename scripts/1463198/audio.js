@@ -1,0 +1,1 @@
+var audioList=[{"title":"01 呜啊！","urlAudio":"https://fdfs.xmcdn.com/group74/M01/E7/67/wKgO3F5Wc8uA6SWrAAJsGg-bdHY540.m4a"},{"title":"01 汪伦与李白的初遇","urlAudio":"https://fdfs.xmcdn.com/group78/M02/CB/75/wKgO1l500fPz7QPJAAX_MkvhH40916.m4a"},{"title":"02 喵汪一家亲","urlAudio":"https://fdfs.xmcdn.com/group78/M07/CB/A4/wKgO1l5002zBaUa9AAcKi67bmV4410.m4a"}]

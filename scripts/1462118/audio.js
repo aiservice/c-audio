@@ -1,0 +1,1 @@
+var audioList=[{"title":"温度·书面内容","urlAudio":"https://fdfs.xmcdn.com/group61/M02/52/C3/wKgMZl1C8diCMi1qAC2jHLTrih8788.m4a"},{"title":"温度·科学世界","urlAudio":"https://fdfs.xmcdn.com/group62/M00/50/0A/wKgMcV1C81uTJHhrABc4dm8OsZU523.m4a"}]

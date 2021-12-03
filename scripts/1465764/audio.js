@@ -1,0 +1,1 @@
+var audioList=[{"title":"关于防止干部“带病提拔”的意见【上】","urlAudio":"https://fdfs.xmcdn.com/group21/M08/8F/04/wKgJKFimYVagTRBCABwRVcL6uPU159.m4a"},{"title":"关于防止干部“带病提拔”的意见【下】","urlAudio":"https://fdfs.xmcdn.com/group27/M03/C8/17/wKgJW1jbIojhhLpgACN6kL2lhk0788.m4a"}]

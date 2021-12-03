@@ -1,0 +1,1 @@
+var audioList=[{"title":"1.紫色蝴蝶","urlAudio":"https://fdfs.xmcdn.com/group76/M01/15/59/wKgO1F5ptpHQOgygACiyc7fo9b4929.m4a"},{"title":"2.月灵之舞","urlAudio":"https://fdfs.xmcdn.com/group74/M01/24/61/wKgO0l5qNmOgHdUDACDRJqUjREw711.m4a"},{"title":"3.新的朋友","urlAudio":"https://fdfs.xmcdn.com/group76/M03/85/5A/wKgO3l5wyYjxA0B8ACA2nn0OzNw589.m4a"}]

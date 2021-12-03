@@ -1,0 +1,1 @@
+var audioList=[{"title":"皇爷私访陈州城—01","urlAudio":"https://fdfs.xmcdn.com/group14/M06/31/3A/wKgDY1WPy6fANQ8hAXVZz3pdc0U521.m4a"},{"title":"皇爷私访陈州城—02","urlAudio":"https://fdfs.xmcdn.com/group11/M02/31/C2/wKgDa1WRFwWSDaElAWfhgdFnOds504.m4a"},{"title":"皇爷私访陈州城—03","urlAudio":"https://fdfs.xmcdn.com/group13/M0B/31/7B/wKgDXVWQrLzDKVdlAV1NaMhYXd0445.m4a"}]

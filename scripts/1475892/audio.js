@@ -1,0 +1,1 @@
+var audioList=[{"title":"中国共产党廉洁自律准则","urlAudio":"https://fdfs.xmcdn.com/group42/M02/2C/71/wKgJ9FrlbguRqAGvAAt9j_vdc_A238.m4a"}]

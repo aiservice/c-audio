@@ -1,0 +1,1 @@
+var audioList=[{"title":"婚礼策划师要如何经营朋友圈（粤语）","urlAudio":"https://fdfs.xmcdn.com/group68/M04/2C/E2/wKgMbl250mGRla2_AKRipBfdeeE498.m4a"},{"title":"婚礼策划师微信谈单销售的八大原则（粤语）","urlAudio":"https://fdfs.xmcdn.com/group69/M05/2D/ED/wKgMeV251Uyx0wmiAHhMPw_EQ88060.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"新冠肺炎中逝去人的财产处理","urlAudio":"https://fdfs.xmcdn.com/group75/M08/63/C7/wKgO3V5ebIDwRH5SAFw54c97Wp4727.m4a"},{"title":"高净值客户为什么开始选择家族信托","urlAudio":"https://fdfs.xmcdn.com/group73/M02/4A/56/wKgO215tp8vhQJSRAIbQ4QCrV7U412.m4a"},{"title":"梅艳芳等中外富豪的家族信托案例","urlAudio":"https://fdfs.xmcdn.com/group73/M01/50/8E/wKgO215uCrTDgiOVAIdnh_zPUHE261.m4a"}]

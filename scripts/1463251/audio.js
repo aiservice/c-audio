@@ -1,0 +1,1 @@
+var audioList=[{"title":"第1张","urlAudio":"https://fdfs.xmcdn.com/group72/M03/9A/50/wKgO0F4OAHPBVCw4AAO-061_y_4815.m4a"},{"title":"第二张","urlAudio":"https://fdfs.xmcdn.com/group72/M03/86/88/wKgO0F4W7umg5R4pACEcsDeyk8E323.m4a"},{"title":"第3片","urlAudio":"https://fdfs.xmcdn.com/group72/M04/26/D8/wKgO0F46ZlvAO-WOAArVLPdmTiY896.m4a"}]

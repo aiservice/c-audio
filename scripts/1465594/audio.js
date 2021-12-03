@@ -1,0 +1,1 @@
+var audioList=[{"title":"1、中国法制史：夏商法律制度中的知识点","urlAudio":"https://fdfs.xmcdn.com/group76/M01/19/B0/wKgO3l5HqEbyC-9uAGjxEeLcfok257.m4a"},{"title":"3、中国法制史：春秋法律制度中的知识点","urlAudio":"https://fdfs.xmcdn.com/group75/M01/26/C4/wKgO3V5JBNbAhxz_ABr8lKzuhy8776.m4a"},{"title":"2、中国法制史：西周法律制度中的知识点","urlAudio":"https://fdfs.xmcdn.com/group78/M09/34/B5/wKgO1l5JBCOxlTtCAJDPORxGeG8665.m4a"}]

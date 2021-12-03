@@ -1,0 +1,1 @@
+var audioList=[{"title":"开播前的一些话","urlAudio":"https://fdfs.xmcdn.com/group65/M05/D5/43/wKgMal1tNIjgHqmvADGDwz63xj0601.m4a"},{"title":"牛顿三定律的问题 （上）","urlAudio":"https://fdfs.xmcdn.com/group64/M08/1A/00/wKgMc12DgRKTMXLDAE0mr54yC3I867.m4a"},{"title":"牛顿三定律的问题（下）","urlAudio":"https://fdfs.xmcdn.com/group65/M0A/19/64/wKgMal2DhEDQ6G4WADTNLzDYCjE902.m4a"}]

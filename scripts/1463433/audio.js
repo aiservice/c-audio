@@ -1,0 +1,1 @@
+var audioList=[{"title":"落花曲","urlAudio":"https://fdfs.xmcdn.com/group59/M0B/A2/17/wKgLeFy0KPXBq676ABSTYfg_HKo987.m4a"},{"title":"汪菱花 小辞店","urlAudio":"https://fdfs.xmcdn.com/group32/M05/87/08/wKgJUFs2KtjBFKITACunE7Nq7K8239.m4a"},{"title":"《严凤英》吴琼","urlAudio":"https://fdfs.xmcdn.com/group60/M01/A1/E6/wKgLb1y0KR6BAJcbAFQKLEkpZcE259.m4a"}]

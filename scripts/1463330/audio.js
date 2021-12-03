@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一章","urlAudio":"https://fdfs.xmcdn.com/group73/M01/72/EE/wKgO0V5fJwPiyUkVABPPxhwG5iY928.m4a"},{"title":"第二章","urlAudio":"https://fdfs.xmcdn.com/group75/M05/74/82/wKgO015fJ6KAHD2bABCqDYBOM1M918.m4a"}]

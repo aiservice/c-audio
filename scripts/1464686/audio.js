@@ -1,0 +1,1 @@
+var audioList=[{"title":"0131《清静经》朗读-崇子","urlAudio":"https://fdfs.xmcdn.com/group70/M03/FD/67/wKgO2F4zeRPjjMRtABkM5Y9Ob0o904.m4a"},{"title":"0104《清静经》朗读-崇子","urlAudio":"https://fdfs.xmcdn.com/group70/M04/E5/F8/wKgOzl4P0ECjLHH5ABl1J-T3WCo382.m4a"},{"title":"1231《清静经》朗读-崇子","urlAudio":"https://fdfs.xmcdn.com/group71/M07/9D/34/wKgO2V4KjBfiIeRAABiLq4SdMtg708.m4a"}]

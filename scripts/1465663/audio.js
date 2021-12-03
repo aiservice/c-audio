@@ -1,0 +1,1 @@
+var audioList=[{"title":"《九民纪要》第一条：民法总则与民法通则的关系及其适用","urlAudio":"https://fdfs.xmcdn.com/group78/M06/E3/F7/wKgO4F5WmQmQtAlmABwk_gFarAk956.m4a"}]

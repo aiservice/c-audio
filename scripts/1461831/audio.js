@@ -1,0 +1,1 @@
+var audioList=[{"title":"雷神","urlAudio":"https://fdfs.xmcdn.com/group68/M06/08/AB/wKgMeF3lEBfxukhTAADuDAvqURg396.m4a"},{"title":"只为游戏而生","urlAudio":"https://fdfs.xmcdn.com/group69/M07/09/CE/wKgMb13lEh7hg04lAAE9bZGiKyY991.m4a"},{"title":"雷神驾到","urlAudio":"https://fdfs.xmcdn.com/group67/M0B/09/EE/wKgMd13lEuvBbtJ5AAGbZkOQEtw012.m4a"}]

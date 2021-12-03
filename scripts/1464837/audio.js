@@ -1,0 +1,1 @@
+var audioList=[{"title":"东西","urlAudio":"https://fdfs.xmcdn.com/group75/M06/1A/30/wKgO3V5Z6oWxmSVMABQ8dmKjotM325.m4a"},{"title":"画","urlAudio":"https://fdfs.xmcdn.com/group77/M0B/2A/2D/wKgO1V5Z7p6zhkrbABSFd3l0Z8g780.m4a"}]

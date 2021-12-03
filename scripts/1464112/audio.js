@@ -1,0 +1,1 @@
+var audioList=[{"title":"瑜伽","urlAudio":"https://fdfs.xmcdn.com/group44/M02/E9/A1/wKgKkVsL5HiCticQAdYIOSQw4xg632.m4a"},{"title":"哈他瑜伽","urlAudio":"https://fdfs.xmcdn.com/group43/M04/0D/1D/wKgKjVsNM7Gho8hoAbKSk1zMsEE173.m4a"}]

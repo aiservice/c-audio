@@ -1,0 +1,1 @@
+var audioList=[{"title":"惊魂日记【第一期】","urlAudio":"https://fdfs.xmcdn.com/group69/M05/CC/23/wKgMeV3h66nQTACJAH7GHEkTJmc363.m4a"},{"title":"惊魂日记【第二期】","urlAudio":"https://fdfs.xmcdn.com/group67/M07/CB/FE/wKgMd13h7H6S-WX9AL4icqOD_s8861.m4a"},{"title":"惊魂日记【第三期】片头预告","urlAudio":"https://fdfs.xmcdn.com/group77/M07/03/D7/wKgO1V54g2PzGId3AAmkQLVXyRs180.m4a"}]

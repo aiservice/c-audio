@@ -1,0 +1,1 @@
+var audioList=[{"title":"《楞严咒》12分钟","urlAudio":"https://fdfs.xmcdn.com/group74/M03/7A/85/wKgO0l5OVeeDxB-VAFTjmmjQ1u4555.m4a"},{"title":"恭诵《楞严咒》7分钟","urlAudio":"https://fdfs.xmcdn.com/group75/M0A/82/BD/wKgO3V5gmiWTQNakADOEKPEeEWI313.m4a"}]

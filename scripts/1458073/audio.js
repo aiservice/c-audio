@@ -1,0 +1,1 @@
+var audioList=[{"title":"人生","urlAudio":"https://fdfs.xmcdn.com/group76/M08/82/55/wKgO1F5PTYuzctlVAAr_OyGrL0A002.m4a"},{"title":"我是如此单独而完整","urlAudio":"https://fdfs.xmcdn.com/group77/M03/9A/DF/wKgO315R0bTweqlgAAiJlU18ICE479.m4a"},{"title":"那一天，那一月，那一年，那一世","urlAudio":"https://fdfs.xmcdn.com/group74/M04/EA/7F/wKgO3F54MBvBgQZAAAmg4RjbF9E619.m4a"}]

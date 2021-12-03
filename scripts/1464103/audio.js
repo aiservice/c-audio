@@ -1,0 +1,1 @@
+var audioList=[{"title":"1.何为瑜伽","urlAudio":"https://fdfs.xmcdn.com/group45/M01/B2/CF/wKgKjlui57HD63h_AI14d3sBGRE739.m4a"},{"title":"2.我的个人旅程","urlAudio":"https://fdfs.xmcdn.com/group47/M09/DB/B2/wKgKm1ukQ3TzGOlZAMSoHGiGMw8881.m4a"}]

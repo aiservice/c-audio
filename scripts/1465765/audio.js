@@ -1,0 +1,1 @@
+var audioList=[{"title":"县以上党和国家机关党员领导干部民主生活会若干规定【上】","urlAudio":"https://fdfs.xmcdn.com/group21/M0A/8F/0A/wKgJKFimYqfDzTnGAC_RKpIgbnQ759.m4a"},{"title":"县以上党和国家机关党员领导干部民主生活会若干规定【下】","urlAudio":"https://fdfs.xmcdn.com/group26/M09/CC/2E/wKgJWFjbIpbDDHKRACz2WKMWf38430.m4a"}]

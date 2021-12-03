@@ -1,0 +1,1 @@
+var audioList=[{"title":"小松鼠开澡堂","urlAudio":"https://fdfs.xmcdn.com/group65/M02/C5/30/wKgMdF33lFyQrmLKABoJdubdTYE746.m4a"},{"title":"爸爸戒烟记","urlAudio":"https://fdfs.xmcdn.com/group67/M03/D6/6A/wKgMbV346NOwSw0LAB7WjNIENLA657.m4a"},{"title":"赵州桥","urlAudio":"https://fdfs.xmcdn.com/group78/M09/CA/71/wKgO4F52Id7iGSoAABGoFaH9E70815.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"001 给产品经理讲技术开篇","urlAudio":"https://fdfs.xmcdn.com/group41/M03/BF/94/wKgJ8VrfPhjgX6yKAA4MfDpmLBI631.m4a"},{"title":"002 给产品经理讲技术章节介绍","urlAudio":"https://fdfs.xmcdn.com/group41/M03/F1/99/wKgJ8Vrh3yyhILivABQYNY6bJto736.m4a"},{"title":"003产品经理要不要懂技术？到什么层次？","urlAudio":"https://fdfs.xmcdn.com/group71/M09/18/A7/wKgO2V4BqBaway-zABpzMMlz7gI912.m4a"}]

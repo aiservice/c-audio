@@ -1,0 +1,1 @@
+var audioList=[{"title":"1.智能家居到底是什么？","urlAudio":"https://fdfs.xmcdn.com/group78/M03/E3/C1/wKgO1l5VgnXRN4BqAFD24Mouuis077.m4a"},{"title":"2.智能家居的分类及区别","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/F9/D2/wKgO4F5YEDWBB8_LAFlGR2SMHlk539.m4a"}]

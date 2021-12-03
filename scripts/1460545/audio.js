@@ -1,0 +1,1 @@
+var audioList=[{"title":"这样的季节是否该去流浪","urlAudio":"https://fdfs.xmcdn.com/group74/M09/93/E9/wKgO3F5yFyeSSdy3AA7CmHpl1y0144.m4a"},{"title":"情书","urlAudio":"https://fdfs.xmcdn.com/group73/M01/99/A0/wKgO215yu1XwaaTKAAJZOt94lvc591.m4a"},{"title":"风","urlAudio":"https://fdfs.xmcdn.com/group76/M05/F9/1E/wKgO1F54bT_RRpgRAASKGC0M9RM200.m4a"}]

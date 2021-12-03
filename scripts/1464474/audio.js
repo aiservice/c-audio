@@ -1,0 +1,1 @@
+var audioList=[{"title":"雷火法","urlAudio":"https://fdfs.xmcdn.com/group72/M06/8F/9D/wKgO0F4n_rLh2E2gABwEFbgVJ64230.m4a"},{"title":"瑶池圣水法","urlAudio":"https://fdfs.xmcdn.com/group72/M00/8F/E0/wKgO0F4oAGej0UBgABywShsGdGw461.m4a"},{"title":"昆仑数术解蛊毒","urlAudio":"https://fdfs.xmcdn.com/group72/M00/5B/EB/wKgO0F4v1IjBk8qgAD8ya8t0YLY932.m4a"}]

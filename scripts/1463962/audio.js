@@ -1,0 +1,1 @@
+var audioList=[{"title":"春天的鼻子","urlAudio":"https://fdfs.xmcdn.com/group78/M05/4A/B8/wKgO4F5L4vzxNpbSAAiYZWHIjcc219.m4a"},{"title":"我微笑着走向生活","urlAudio":"https://fdfs.xmcdn.com/group77/M03/82/1D/wKgO1V5OcdfwcSFhAAazX49dON0137.m4a"},{"title":"秋天","urlAudio":"https://fdfs.xmcdn.com/group77/M00/82/95/wKgO1V5OdjuS6OYFAAODg5W_4Zc284.m4a"}]

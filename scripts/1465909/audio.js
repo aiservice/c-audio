@@ -1,0 +1,1 @@
+var audioList=[{"title":"米其林全能战队——带你发现城市之美（山城）","urlAudio":"https://fdfs.xmcdn.com/group11/M02/73/3A/wKgDbVc1lnDg8hvYAMma0ulygr8700.m4a"},{"title":"米其林全能战队——带你发现城市之美（水城）","urlAudio":"https://fdfs.xmcdn.com/group16/M09/75/E3/wKgDbFdCaWvy7Z1CAM1dLoSl0ik899.m4a"}]

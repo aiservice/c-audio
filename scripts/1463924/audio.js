@@ -1,0 +1,1 @@
+var audioList=[{"title":"鲁滨逊漂流记（节选）","urlAudio":"https://fdfs.xmcdn.com/group75/M0B/DC/90/wKgO015VHbWym9dsAB1MKKT1V9Q485.m4a"},{"title":"鲁滨逊漂流记（节选）","urlAudio":"https://fdfs.xmcdn.com/group74/M0A/ED/40/wKgO0l5WWWfgZG5tABgKHKCMx1I103.m4a"},{"title":"鲁滨逊漂流记（节选）","urlAudio":"https://fdfs.xmcdn.com/group73/M00/03/79/wKgO0V5Xvi7Rx99MABoPA-I7Euo181.m4a"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"钱钟书致杨绛","urlAudio":"https://fdfs.xmcdn.com/group41/M07/98/AB/wKgJ8Vqz3zjSGAjAAAN-NmnmU0s155.m4a"},{"title":"第一零四夜：素心包裹，埋头向前","urlAudio":"https://fdfs.xmcdn.com/group41/M08/ED/7D/wKgJ8Vq5IEbABFKkAAo5P9M5liI520.m4a"},{"title":"小石潭记","urlAudio":"https://fdfs.xmcdn.com/group42/M05/17/36/wKgJ81q7wmOzFDwdAA6CHeDs5l4825.m4a"}]

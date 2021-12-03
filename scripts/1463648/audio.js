@@ -1,0 +1,1 @@
+var audioList=[{"title":"粤唱粤好戏《周仁救嫂》1","urlAudio":"https://fdfs.xmcdn.com/group41/M01/A5/87/wKgJ8VqZ6KWTiiqjAE4uQkWKvbk543.m4a"},{"title":"粤唱粤好戏《周仁救嫂》2","urlAudio":"https://fdfs.xmcdn.com/group41/M04/A5/89/wKgJ8VqZ6NeQgNxeAFLil3VZYVg841.m4a"},{"title":"粤唱粤好戏《周仁救嫂》3","urlAudio":"https://fdfs.xmcdn.com/group42/M04/A6/30/wKgJ9FqZ6P6yIdw6AE-tt_ExveU924.m4a"}]

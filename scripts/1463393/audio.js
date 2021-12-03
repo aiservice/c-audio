@@ -1,0 +1,1 @@
+var audioList=[{"title":"【昆曲】西厢记·拷红 顾预/裘彩萍","urlAudio":"https://fdfs.xmcdn.com/group78/M0B/3B/E0/wKgO1l5JX9ej7r8fAMqmkXTpnJ0697.m4a"},{"title":"【越剧】陈三两·骂堂 竺欢欢/裘婷羽","urlAudio":"https://fdfs.xmcdn.com/group78/M08/29/42/wKgO4F5JcVbBH8OVAMjSIl6-fcA949.m4a"},{"title":"【越剧】陈三两·见凤鸣气得我五内俱焚 竺欢欢","urlAudio":"https://fdfs.xmcdn.com/group76/M0A/4D/91/wKgO1F5tGhWxxtqAAEmNk_pzcRI764.m4a"}]

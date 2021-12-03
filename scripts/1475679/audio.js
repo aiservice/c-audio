@@ -1,0 +1,1 @@
+var audioList=[{"title":"甲午海战","urlAudio":"https://fdfs.xmcdn.com/group70/M03/A8/4A/wKgO2F4dbX7jLHnwAF872ppwhH4055.m4a"},{"title":"大宅门白景琦立遗嘱片段","urlAudio":"https://fdfs.xmcdn.com/group70/M08/A9/1B/wKgO2F4deVvBxDo5ABGB-vBE1L8957.m4a"}]

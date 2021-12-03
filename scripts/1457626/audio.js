@@ -1,0 +1,1 @@
+var audioList=[{"title":"爱","urlAudio":"https://fdfs.xmcdn.com/group76/M06/F9/A5/wKgO1F54dBPBRjRVABiIqlATFrg143.m4a"},{"title":"浮世三千，吾爱有三","urlAudio":"https://fdfs.xmcdn.com/group78/M01/E8/77/wKgO4F54fhaCwQCeAAcZo8ZklQI999.m4a"},{"title":"今天的你 过得好吗","urlAudio":"https://fdfs.xmcdn.com/group77/M0B/18/4A/wKgO1V55zWXy1osxAAT4zNv6qck078.m4a"}]

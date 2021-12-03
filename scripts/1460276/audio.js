@@ -1,0 +1,1 @@
+var audioList=[{"title":"谁说《卡门》里只有“卡门”，今天就说米凯拉","urlAudio":"https://fdfs.xmcdn.com/group73/M07/F4/D8/wKgO0V54Ob2zzH28ADPZuqMQ3gw757.m4a"},{"title":"听歌剧的时候，如何正确地用意大利语喝彩？","urlAudio":"https://fdfs.xmcdn.com/group74/M05/EC/17/wKgO3F54Rp2g2T_3ACcB7yjx2xc607.m4a"}]
