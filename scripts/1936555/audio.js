@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/fefa-audiofreehighqps/0A/81/CMCoOR8DhGaWAcLDuQBmrI1O.m4a","title":"【直播回听】1，化妆品监督管理条例2020"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/c559-audiofreehighqps/C1/7A/CMCoOSADhW01AJfehwBm2kzl.m4a","title":"【直播回听】2，化妆品监督管理条例2020"}]

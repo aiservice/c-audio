@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/group86/M07/D8/DD/wKg5Jl9Ra92TgO1fAAmaavnZQ-0109.m4a","title":"1人类简史简介"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/group86/M07/D8/DD/wKg5Jl9Ra-HjAy-1AAlGtW1tT9s494.m4a","title":"2作者房龙简介"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/group86/M07/D8/DE/wKg5Jl9Ra-6Bw3NwAB-IPJZhrCU371.m4a","title":"3作者房龙的生平"}]

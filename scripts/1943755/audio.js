@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/82b0-audiofreehighqps/FD/4D/CMCoOR8Dk6edACR4jgBqhWwm.m4a","title":"投资技巧20条（上）"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/2c6a-audiofreehighqps/61/5B/CMCoOSIDk6oLACUClQBqhjfK.m4a","title":"外汇投资技巧20条（中）"}]

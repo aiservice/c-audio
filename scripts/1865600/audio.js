@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/039f-audiofreehighqps/38/8A/CMCoOSUDSu7SAAp7FABZVEdB.m4a","title":"内容提要"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/d22f-audiofreehighqps/7C/07/CMCoOR4DSvXmADtwKQBZVjpa.m4a","title":"角度知识"}]

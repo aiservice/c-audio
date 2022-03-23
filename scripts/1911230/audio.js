@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/71a1-audiofreehighqps/4E/20/CMCoOSUDEnr6ABCYbABL_Jkb.m4a","title":"填坑系列"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/group87/M03/1C/61/wKg5J19AdKuQZ-7EABlO-jLni_s254.m4a","title":"开报废的武装直升机"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/group84/M02/A2/BE/wKg5Hl9MntGT8AbGABAkbs6Gvcc718.m4a","title":"进入扭蛋机"}]
