@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/group72/M09/98/9B/wKgO0F5BatTznVv5ACd4iTl2tAw629.m4a","title":"20100210读第一遍—人民日报评论：善于学习20190418"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/group72/M00/DF/A9/wKgO0F5CvkTC9eJ-ACaazVldQTs170.m4a","title":"20100211人民日报评论：善于学习"}]

@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/group45/M00/E8/E5/wKgKlFtCHRnDcc3oAEh0FePNKYY385.m4a","title":"股权的魅力"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/group46/M07/44/64/wKgKlltFikmQhFYZACTURBVkqc4100.m4a","title":"5分钟看懂股权投资"}]
