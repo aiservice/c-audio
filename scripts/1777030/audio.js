@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/group36/M00/B1/EC/wKgJUlovhriCtilnACEwqO7csAs632.m4a","title":"大卫不可以"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/group36/M00/B1/ED/wKgJUlovhr2ht2XGABynIB5TLsQ704.m4a","title":"大卫上学去"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/group36/M00/B1/ED/wKgJUlovhr7C0NFMACPrzaDXmHI287.m4a","title":"大卫惹麻烦"}]
