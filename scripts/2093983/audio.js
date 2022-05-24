@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/fbb1-audiofreehighqps/82/B0/CMCoOScDir-XBMvNSABoL7vb.m4a","title":"王阳明心学及其现代意义（上）"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/5447-audiofreehighqps/8D/34/CMCoOR8DisUoBKEgCwBoMvV0.m4a","title":"王阳明心学及其现代意义（下）"}]
