@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/0451-audiofreehighqps/EE/96/CMCoOSEDm-PeAD0YmgBsxGx4.m4a","title":"康熙王朝01：顺治出家，玄烨终登大位"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/349e-audiofreehighqps/67/33/CMCoOScDm-REAE2DQgBsxKtg.m4a","title":"康熙王朝02：四大臣人心各异，少年康熙和权臣鳌拜矛盾初显"}]

@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/f041-audiofreehighqps/81/D1/CMCoOSADiV8gAE7WawBny2dZ.m4a","title":"构架风险管理"},{"urlAudio":"https://aod.cos.tx.xmcdn.com/storages/dd4b-audiofreehighqps/B1/1A/CMCoOSUDiW_MAF_czABn06Ij.m4a","title":"架构决策"}]
